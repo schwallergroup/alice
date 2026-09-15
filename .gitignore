@@ -1,0 +1,48 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# W&B local data
+wandb/
+
+# Experiment outputs and checkpoints
+results/
+results_*/
+checkpoints/
+model_checkpoints/
+
+# Model weights (run outputs only -- no weights are distributed with this repo)
+*.pth
+*.pt
+*.safetensors
+
+# Logs
+*.log
