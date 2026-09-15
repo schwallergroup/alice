@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "alice"
+version = "0.0.1"
+description = "Multi-objective Bayesian optimization over LLM embeddings for reaction optimization"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+# Runtime dependencies are read from requirements.txt so the two cannot drift.
+# Note: setuptools parses that file as plain requirement specifiers -- it cannot
+# handle pip-only directives such as -r, -e, or --index-url.
+dynamic = ["dependencies"]
+
+[tool.setuptools.dynamic]
+dependencies = { file = ["requirements.txt"] }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+alice = ["py.typed"]

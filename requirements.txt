@@ -1,0 +1,26 @@
+# Minimal direct dependencies for running ALICE.
+#
+# For the exact environment that produced the published results, use
+# environment.lock.yml instead (full transitive freeze, linux-64).
+#
+#   pip install -r requirements.txt
+#   pip install -e .
+#
+# Requires Python 3.10 or newer. On linux-64 the PyPI torch wheel bundles
+# CUDA 12.8; results were produced with torch 2.8.0 on an NVIDIA A100.
+torch==2.8.0
+botorch==0.13.0
+gpytorch==1.14
+transformers==4.51.2
+peft==0.15.1
+numpy==1.26.4
+scikit-learn==1.7.1
+jsonargparse==4.38.0
+
+# --- Peripheral: data handling, plotting, logging, CLI ---
+pandas>=2.3.2
+matplotlib>=3.10.1
+pytorch-lightning==2.5.4      # used only for seed_everything
+tqdm>=4.67.1
+wandb>=0.21.0
+ipykernel==6.30.1

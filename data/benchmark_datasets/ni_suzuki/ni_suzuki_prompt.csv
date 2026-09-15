@@ -1,0 +1,385 @@
+AP yield,AP selectivity,reaction_prompt
+0.5835271144,0.7924079658,Reaction conditions: ligand: cataCXium POMeCy precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.5352466036,0.5786040138,Reaction conditions: ligand: cataCXium ABn precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: MeTHF cosolvent: MeOH temperature: 70
+0.3954406495,0.6079400103,Reaction conditions: ligand: EtPhenCar-Phos precursor: [Ni(COD)(DQ)] base: K3PO4 solvent: 2-methyl-2-butanol cosolvent: none temperature: 70
+0.3430746148,0.3678480262,Reaction conditions: ligand: NPCy2-Phendolephos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: MEK cosolvent: MeOH temperature: 70
+0.3133927616,0.4489841628,Reaction conditions: ligand: CyJohnPhos precursor: [Ni(oTol)(Cl)(TMEDA)] base: K3PO4 solvent: DMI cosolvent: water temperature: 70
+0.3110780954,0.3110780954,Reaction conditions: ligand: SPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: iPrOH cosolvent: none temperature: 70
+0.2827550516,0.6589635848,Reaction conditions: ligand: P(4-OMe-C6H4)3 precursor: [Ni(oTol)(Cl)(TMEDA)] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 100
+0.2744805543,0.3147705532,Reaction conditions: ligand: CM-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: toluene cosolvent: MeOH temperature: 70
+0.2052381356,0.4538439965,Reaction conditions: ligand: cataCXium POMeCy precursor: [Ni(COD)(DQ)] base: K3PO4 solvent: MEK cosolvent: none temperature: 70
+0.1912655359,0.5007297738,Reaction conditions: ligand: XPhos precursor: [Ni(COD)(DQ)] base: K3PO4 solvent: EtOAc cosolvent: none temperature: 70
+0.1583524474,0.4106674242,Reaction conditions: ligand: Amidolephos precursor: [Ni(oTol)(Cl)(TMEDA)] base: K3PO4 solvent: DEC cosolvent: none temperature: 100
+0.1388876987,0.5109729674,Reaction conditions: ligand: CyPPh2 precursor: [Ni(oTol)(Cl)(TMEDA)] base: DIPEA solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.1348229745,0.2660867394,Reaction conditions: ligand: BrettPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: toluene cosolvent: water temperature: 70
+0.1327522055,0.2360253385,"Reaction conditions: ligand: P(2,4,6-TriMeO)3 precursor: [Ni(oTol)(Cl)(TMEDA)] base: K3PO4 solvent: EtOAc cosolvent: water temperature: 70"
+0.121666604,0.2046455916,Reaction conditions: ligand: CM-Phos precursor: [Ni(COD)(DQ)] base: DIPEA solvent: acetonitrile cosolvent: MeOH temperature: 70
+0.1016359536,0.2037549641,Reaction conditions: ligand: PAd3 precursor: [Ni(COD)(DQ)] base: DBU solvent: toluene cosolvent: MeOH temperature: 70
+0.1010958319,0.2911372756,Reaction conditions: ligand: CPhos precursor: [Ni(COD)(DQ)] base: Cs2CO3 solvent: DEC cosolvent: none temperature: 100
+0.1003432227,0.2471134074,Reaction conditions: ligand: PtBuPh2 precursor: [Ni(oTol)(Cl)(TMEDA)] base: K3PO4 solvent: MEK cosolvent: none temperature: 70
+0.09484364684,0.1737899771,Reaction conditions: ligand: CyPPh2 precursor: NiCl2.6H2O base: K3PO4 solvent: DEC cosolvent: MeOH temperature: 100
+0.09252675245,0.1002413352,Reaction conditions: ligand: cataCXium PICy precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeTHF cosolvent: MeOH temperature: 70
+0.08530180902,0.09126070182,Reaction conditions: ligand: P(oTol)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeTHF cosolvent: MeOH temperature: 70
+0.08324963529,0.08324963529,Reaction conditions: ligand: EPhos precursor: [Ni(COD)(DQ)] base: K3PO4 solvent: DMI cosolvent: water temperature: 100
+0.07748576293,0.08591381749,Reaction conditions: ligand: PtBuPh2 precursor: [Ni(COD)(DQ)] base: K3PO4 solvent: DMI cosolvent: MeOH temperature: 100
+0.07504211974,0.1092831628,Reaction conditions: ligand: BippyPhos precursor: [Ni(oTol)(Cl)(TMEDA)] base: DIPEA solvent: 2-methyl-2-butanol cosolvent: MeOH temperature: 70
+0.0677203046,0.09996690923,Reaction conditions: ligand: Cy-vBRIDP precursor: [Ni(COD)(DQ)] base: K3PO4 solvent: DEC cosolvent: MeOH temperature: 70
+0.06437035937,0.2155806507,Reaction conditions: ligand: DavePhos precursor: [Ni(COD)(DQ)] base: K3PO4 solvent: toluene cosolvent: none temperature: 70
+0.05697196249,0.3470992527,Reaction conditions: ligand: CyPPh2 precursor: [Ni(COD)(DQ)] base: K3PO4 solvent: toluene cosolvent: water temperature: 70
+0.05606850998,0.07923492271,Reaction conditions: ligand: DavePhos precursor: [Ni(COD)(DQ)] base: K3PO4 solvent: EtOAc cosolvent: MeOH temperature: 70
+0.04124033343,0.09331046203,Reaction conditions: ligand: BrettPhos precursor: [Ni(COD)(DQ)] base: DIPEA solvent: DEC cosolvent: MeOH temperature: 70
+0.03762451761,0.1035082148,Reaction conditions: ligand: JohnPhos precursor: [Ni(oTol)(Cl)(TMEDA)] base: DIPEA solvent: 2-methyl-2-butanol cosolvent: MeOH temperature: 100
+0.02938161522,0.05312138386,Reaction conditions: ligand: PCy3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: DEC cosolvent: MeOH temperature: 70
+0.02213520078,0.04357778814,Reaction conditions: ligand: NPCy2-Phendolephos precursor: [Ni(oTol)(Cl)(TMEDA)] base: DIPEA solvent: DEC cosolvent: MeOH temperature: 100
+0.01205618971,0.0316940131,Reaction conditions: ligand: RuPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: EtOAc cosolvent: water temperature: 70
+0.01196758118,0.0580094076,Reaction conditions: ligand: cataCXium PICy precursor: [Ni(oTol)(Cl)(TMEDA)] base: DIPEA solvent: 2-methyl-2-butanol cosolvent: none temperature: 100
+0.01073478381,0.01902867744,Reaction conditions: ligand: iPrPhenCar-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: MEK cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium PICy precursor: NiCl2.6H2O base: Cs2CO3 solvent: DEC cosolvent: MeOH temperature: 70
+0.0,0.0,Reaction conditions: ligand: CPhos precursor: [Ni(oTol)(Cl)(TMEDA)] base: DBU solvent: DEC cosolvent: MeOH temperature: 70
+0.0,0.0,Reaction conditions: ligand: AmPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: DEC cosolvent: MeOH temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium PICy precursor: NiCl2.6H2O base: DIPEA solvent: DEC cosolvent: none temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium PICy precursor: [Ni(oTol)(Cl)(TMEDA)] base: Cs2CO3 solvent: DEC cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: iPrPhenCar-Phos precursor: [Ni(oTol)(Cl)(TMEDA)] base: Cs2CO3 solvent: DEC cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: CM-Phos precursor: NiCl2.6H2O base: DIPEA solvent: DEC cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium PICy precursor: NiCl2.6H2O base: DIPEA solvent: DMI cosolvent: MeOH temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium PiPr precursor: [Ni(COD)(DQ)] base: DBU solvent: DMI cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: PtBuPh2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: DMI cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: MorDalphos precursor: [Ni(COD)(DQ)] base: Cs2CO3 solvent: EtOAc cosolvent: MeOH temperature: 70
+0.0,0.0,Reaction conditions: ligand: PhenCar-Phos precursor: [Ni(oTol)(Cl)(TMEDA)] base: Cs2CO3 solvent: EtOAc cosolvent: MeOH temperature: 70
+0.0,0.0,Reaction conditions: ligand: CyJohnPhos precursor: [Ni(oTol)(Cl)(TMEDA)] base: DIPEA solvent: EtOAc cosolvent: MeOH temperature: 70
+0.0,0.0,Reaction conditions: ligand: RuPhos precursor: [Ni(oTol)(Cl)(TMEDA)] base: DIPEA solvent: EtOAc cosolvent: MeOH temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium ABn precursor: [Ni(COD)(DQ)] base: DBU solvent: EtOAc cosolvent: none temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium ABn precursor: NiCl2.6H2O base: DIPEA solvent: EtOAc cosolvent: none temperature: 70
+0.0,0.0,Reaction conditions: ligand: PAd3 precursor: [Ni(oTol)(Cl)(TMEDA)] base: K3PO4 solvent: EtOAc cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium POMeCy precursor: NiCl2.6H2O base: DIPEA solvent: iPrOH cosolvent: MeOH temperature: 70
+0.0,0.0,Reaction conditions: ligand: NPCy2-Phendolephos precursor: [Ni(COD)(DQ)] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: PtBuPh2 precursor: [Ni(COD)(DQ)] base: Cs2CO3 solvent: acetonitrile cosolvent: MeOH temperature: 70
+0.0,0.0,Reaction conditions: ligand: AmPhos precursor: [Ni(COD)(DQ)] base: DBU solvent: acetonitrile cosolvent: none temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium PiPr precursor: [Ni(oTol)(Cl)(TMEDA)] base: DBU solvent: acetonitrile cosolvent: none temperature: 70
+0.0,0.0,Reaction conditions: ligand: P(oTol)3 precursor: [Ni(COD)(DQ)] base: DBU solvent: acetonitrile cosolvent: none temperature: 70
+0.0,0.0,Reaction conditions: ligand: CM-Phos precursor: [Ni(oTol)(Cl)(TMEDA)] base: DIPEA solvent: acetonitrile cosolvent: none temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium ABn precursor: NiCl2.6H2O base: Cs2CO3 solvent: acetonitrile cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: PtBuCy2 precursor: [Ni(COD)(DQ)] base: Cs2CO3 solvent: acetonitrile cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium PICy precursor: [Ni(COD)(DQ)] base: DBU solvent: acetonitrile cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: P(2-OMe-C6H4)3 precursor: NiCl2.6H2O base: DBU solvent: acetonitrile cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: Amidolephos precursor: [Ni(COD)(DQ)] base: DIPEA solvent: acetonitrile cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium POMetB precursor: [Ni(COD)(DQ)] base: DIPEA solvent: acetonitrile cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: Cy-vBRIDP precursor: NiCl2.6H2O base: K3PO4 solvent: acetonitrile cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: PhDavePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MEK cosolvent: MeOH temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium POMetB precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: MEK cosolvent: MeOH temperature: 70
+0.0,0.0,Reaction conditions: ligand: CM-Phos precursor: NiCl2.6H2O base: K3PO4 solvent: MEK cosolvent: MeOH temperature: 70
+0.0,0.0,Reaction conditions: ligand: CyPPh2 precursor: [Ni(COD)(DQ)] base: DIPEA solvent: MEK cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: PhXPhos precursor: [Ni(oTol)(Cl)(TMEDA)] base: DBU solvent: MeTHF cosolvent: none temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium POMetB precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: MeTHF cosolvent: none temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium POMeCy precursor: [Ni(oTol)(Cl)(TMEDA)] base: DBU solvent: MeTHF cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: PtBuPh2 precursor: [Ni(COD)(DQ)] base: DBU solvent: MeTHF cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium A precursor: [Ni(COD)(DQ)] base: DIPEA solvent: MeTHF cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: Amidolephos precursor: NiCl2.6H2O base: K3PO4 solvent: MeTHF cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: PhDavePhos precursor: NiCl2.6H2O base: DIPEA solvent: toluene cosolvent: MeOH temperature: 70
+0.0,0.0,Reaction conditions: ligand: vBRIDP precursor: NiCl2.6H2O base: DIPEA solvent: toluene cosolvent: MeOH temperature: 70
+0.0,0.0,Reaction conditions: ligand: GPhos precursor: NiCl2.6H2O base: Cs2CO3 solvent: toluene cosolvent: none temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium PICy precursor: [Ni(COD)(DQ)] base: DBU solvent: toluene cosolvent: none temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium POMetB precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: toluene cosolvent: none temperature: 70
+0.0,0.0,Reaction conditions: ligand: EPhos precursor: NiCl2.6H2O base: DBU solvent: toluene cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: Amidolephos precursor: NiCl2.6H2O base: DIPEA solvent: toluene cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: AmPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: 2-methyl-2-butanol cosolvent: none temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium POMetB precursor: [Ni(oTol)(Cl)(TMEDA)] base: DBU solvent: 2-methyl-2-butanol cosolvent: none temperature: 70
+0.0,0.0,Reaction conditions: ligand: tBuDavePhos precursor: NiCl2.6H2O base: DBU solvent: 2-methyl-2-butanol cosolvent: none temperature: 70
+0.0,0.0,Reaction conditions: ligand: EtPhenCar-Phos precursor: [Ni(COD)(DQ)] base: DIPEA solvent: 2-methyl-2-butanol cosolvent: none temperature: 70
+0.0,0.0,Reaction conditions: ligand: cataCXium PICy precursor: [Ni(oTol)(Cl)(TMEDA)] base: DIPEA solvent: DEC cosolvent: none temperature: 100
+0.0,0.0,Reaction conditions: ligand: MorDalphos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: DEC cosolvent: none temperature: 100
+0.0,0.0,Reaction conditions: ligand: cataCXium POMeCy precursor: NiCl2.6H2O base: DBU solvent: DMI cosolvent: MeOH temperature: 100
+0.0,0.0,Reaction conditions: ligand: PAd3 precursor: [Ni(oTol)(Cl)(TMEDA)] base: DIPEA solvent: DMI cosolvent: none temperature: 100
+0.0,0.0,Reaction conditions: ligand: CPhos precursor: NiCl2.6H2O base: Cs2CO3 solvent: toluene cosolvent: MeOH temperature: 100
+0.0,0.0,Reaction conditions: ligand: cataCXium A precursor: [Ni(oTol)(Cl)(TMEDA)] base: DBU solvent: toluene cosolvent: MeOH temperature: 100
+0.0,0.0,Reaction conditions: ligand: AmPhos precursor: [Ni(oTol)(Cl)(TMEDA)] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: MeOH temperature: 100
+0.1284624841,0.1607005136,Reaction conditions: ligand: cataCXium PICy precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.1183767616,0.1218660535,Reaction conditions: ligand: cataCXium PICy precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.09037154334,0.1062378975,Reaction conditions: ligand: PtBuCy2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: 2-methyl-2-butanol cosolvent: MeOH temperature: 40
+0.08903680655,0.1100792968,Reaction conditions: ligand: CyJohnPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: MeOH cosolvent: water temperature: 55
+0.08078212896,0.09251798446,Reaction conditions: ligand: Tyrannophos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: MeOH cosolvent: water temperature: 40
+0.0730939193,0.08423526344,Reaction conditions: ligand: PCy3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: MeOH cosolvent: MeOH temperature: 55
+0.06715539975,0.07511020572,Reaction conditions: ligand: PtBuCy2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: 2-methyl-2-butanol cosolvent: MeOH temperature: 55
+0.06591088339,0.07680432497,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: MeOH cosolvent: MeOH temperature: 55
+0.06580890118,0.09380346226,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: 2-methyl-2-butanol cosolvent: MeOH temperature: 40
+0.06546049381,0.07646532791,Reaction conditions: ligand: Tyrannophos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: MeOH cosolvent: water temperature: 55
+0.05246983547,0.06998566142,Reaction conditions: ligand: PtBuCy2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: MeOH cosolvent: MeOH temperature: 40
+0.0514688353,0.06251094828,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: 2-methyl-2-butanol cosolvent: MeOH temperature: 55
+0.04991238997,0.06419302472,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: iPrOH cosolvent: MeOH temperature: 40
+0.0452091843,0.05788564094,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: MeTHF cosolvent: MeOH temperature: 40
+0.0440870373,0.05482508604,Reaction conditions: ligand: cataCXium PiPr precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.04246549499,0.05445585712,Reaction conditions: ligand: Tyrannophos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.04243821833,0.05272400084,Reaction conditions: ligand: RuPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.04095556334,0.05043339903,Reaction conditions: ligand: P(4-OMe-C6H4)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.04039014269,0.04978336441,Reaction conditions: ligand: PPh3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.0390979798,0.04880479328,Reaction conditions: ligand: XPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.03867873668,0.0851170122,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: MeTHF cosolvent: none temperature: 55
+0.03862704458,0.06508144606,Reaction conditions: ligand: Amidolephos precursor: [Ni(oTol)(Cl)(TMEDA)] base: K3PO4 solvent: 2-methyl-2-butanol cosolvent: water temperature: 100
+0.03767949184,0.04689214268,Reaction conditions: ligand: cataCXium POMeCy precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.03752647329,0.09411693663,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: MeTHF cosolvent: none temperature: 40
+0.03724511334,0.04567886428,Reaction conditions: ligand: PhenCar-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.0363267096,0.04538099574,Reaction conditions: ligand: SPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.03546752581,0.04462253007,Reaction conditions: ligand: BrettPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.03535070233,0.04422062037,Reaction conditions: ligand: vBRIDP precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.03444314162,0.05410269049,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: MeOH cosolvent: MeOH temperature: 40
+0.03400270063,0.04236788273,Reaction conditions: ligand: JohnPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.03385386422,0.06817325054,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: 2-methyl-2-butanol cosolvent: none temperature: 40
+0.03367332927,0.04283565583,Reaction conditions: ligand: EPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.03303878102,0.04069624144,Reaction conditions: ligand: P(oTol)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.03152541605,0.04030677244,Reaction conditions: ligand: CyJohnPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.03145214829,0.03817806672,Reaction conditions: ligand: AmPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.02715198282,0.03462027595,Reaction conditions: ligand: XPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.02672950513,0.03399195559,Reaction conditions: ligand: (tBu)PhCPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.02599047136,0.03275831883,Reaction conditions: ligand: cataCXium POMetB precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.02552638953,0.02832057943,Reaction conditions: ligand: CyJohnPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.02547053031,0.03192382557,Reaction conditions: ligand: Amidolephos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.02458522592,0.03078331308,Reaction conditions: ligand: GPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.02263012629,0.02624659715,Reaction conditions: ligand: vBRIDP precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.01851327857,0.02000490311,Reaction conditions: ligand: Amidolephos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.01833600034,0.01894172021,Reaction conditions: ligand: cataCXium PiPr precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.01807794438,0.01879473589,Reaction conditions: ligand: PhenCar-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.01798296333,0.01909337337,Reaction conditions: ligand: P(oTol)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.01707535025,0.01755492331,Reaction conditions: ligand: P(4-CF3-C6H4)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.01633737058,0.01701974599,Reaction conditions: ligand: GPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.01538086566,0.01600420194,"Reaction conditions: ligand: P(2,4,6-TriMeO)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55"
+0.01126353888,0.01142786403,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: iPrOH cosolvent: none temperature: 40
+0.01031051969,0.01582045451,Reaction conditions: ligand: Tyrannophos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 40
+0.0,0.0,Reaction conditions: ligand: PtBuCy2 precursor: NiCl2.6H2O base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 100
+0.0,0.0,Reaction conditions: ligand: PtBuCy2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: iPrOH cosolvent: MeOH temperature: 40
+0.0,0.0,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(COD)(DQ)] base: K3PO4 solvent: iPrOH cosolvent: none temperature: 40
+0.0,0.0,Reaction conditions: ligand: CyJohnPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 40
+0.0,0.0,Reaction conditions: ligand: P(oTol)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 40
+0.0,0.0,Reaction conditions: ligand: XPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 40
+0.0,0.0,Reaction conditions: ligand: CPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.0,0.0,Reaction conditions: ligand: DavePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.0,0.0,Reaction conditions: ligand: tBuDavePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 40
+0.0,0.0,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(COD)(DQ)] base: K3PO4 solvent: 2-methyl-2-butanol cosolvent: none temperature: 40
+0.0,0.0,Reaction conditions: ligand: CyJohnPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 40
+0.0,0.0,Reaction conditions: ligand: P(oTol)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 40
+0.0,0.0,Reaction conditions: ligand: Tyrannophos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 40
+0.0,0.0,Reaction conditions: ligand: XPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 40
+0.0,0.0,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: iPrOH cosolvent: MeOH temperature: 55
+0.0,0.0,Reaction conditions: ligand: PtBuCy2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: iPrOH cosolvent: MeOH temperature: 55
+0.0,0.0,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: iPrOH cosolvent: none temperature: 55
+0.0,0.0,Reaction conditions: ligand: CyJohnPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: P(oTol)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: Tyrannophos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: XPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: PtBuCy2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: MeOH cosolvent: MeOH temperature: 55
+0.0,0.0,Reaction conditions: ligand: (tBu)PhCPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: AmPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: BrettPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: cataCXium POMeCy precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: cataCXium POMetB precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: CPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: CyAmPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: DavePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: EPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: JohnPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: P(4-OMe-C6H4)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: PPh3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: RuPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: SPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: tBuDavePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: Tyrannophos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: MeOH cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: PCy3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: 2-methyl-2-butanol cosolvent: MeOH temperature: 55
+0.0,0.0,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(COD)(DQ)] base: K3PO4 solvent: 2-methyl-2-butanol cosolvent: none temperature: 55
+0.0,0.0,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: 2-methyl-2-butanol cosolvent: none temperature: 55
+0.0,0.0,Reaction conditions: ligand: CyJohnPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: P(4-OMe-C6H4)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: P(oTol)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 55
+0.9677790647,0.9677790647,Reaction conditions: ligand: Tyrannophos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.9416047639,1.0,Reaction conditions: ligand: PCy3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.8885121705,0.8885121705,Reaction conditions: ligand: CyAmPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.8729461381,0.8729461381,Reaction conditions: ligand: EtPhenCar-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.7795679068,0.7795679068,Reaction conditions: ligand: PAd3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.7689913767,0.8607918609,Reaction conditions: ligand: P(4-OMe-C6H4)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.7562506166,0.965735769,Reaction conditions: ligand: PtBuCy2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.7380216105,0.7380216105,Reaction conditions: ligand: PCy3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.7252905302,0.8911474567,Reaction conditions: ligand: cataCXium PiPr precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.7194826899,0.7194826899,Reaction conditions: ligand: cataCXium PICy precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.7158933545,0.8518966121,Reaction conditions: ligand: Cy-vBRIDP precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.7112140555,0.7112140555,Reaction conditions: ligand: Tyrannophos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.695411842,0.695411842,Reaction conditions: ligand: CyJohnPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.6861119644,0.9494994979,Reaction conditions: ligand: PAd3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.6832987659,0.6832987659,Reaction conditions: ligand: JackiePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.6737538319,0.6737538319,Reaction conditions: ligand: P(4-OMe-C6H4)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.6029208999,0.8329205016,Reaction conditions: ligand: Cy-vBRIDP precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.6009595669,0.9569024864,Reaction conditions: ligand: PAd3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.5931868278,0.850811722,Reaction conditions: ligand: cataCXium PICy precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.5585770677,0.7812954247,Reaction conditions: ligand: JackiePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.5530374533,0.8372168791,Reaction conditions: ligand: PCy3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.5503213394,0.812761365,Reaction conditions: ligand: cataCXium POMetB precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.548572074,0.7971854205,Reaction conditions: ligand: GPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.5363386775,0.7627337745,Reaction conditions: ligand: P(4-CF3-C6H4)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.5344826331,0.9108751913,Reaction conditions: ligand: cataCXium ABn precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.5317767395,0.6871589035,Reaction conditions: ligand: GPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.5105175753,0.7860071883,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.5096545875,0.7790585707,Reaction conditions: ligand: Tyrannophos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.5024940653,0.7798593325,Reaction conditions: ligand: P(2-Fur)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.4945027001,0.6809708609,Reaction conditions: ligand: BippyPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.4877578091,0.6992202514,Reaction conditions: ligand: NPCy2-Phendolephos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.4691004471,0.7861534073,Reaction conditions: ligand: cataCXium PICy precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.4649862199,0.7374331921,Reaction conditions: ligand: P(2-Fur)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.4631817407,0.4771109135,Reaction conditions: ligand: P(2-Fur)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.4481542151,0.6569057428,Reaction conditions: ligand: CyBippyPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.3623686715,0.6431976048,Reaction conditions: ligand: Amidolephos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.2926978651,0.4923699971,Reaction conditions: ligand: CyAmPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.2853639511,0.7574945065,Reaction conditions: ligand: JackiePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.2797681803,0.4849766719,Reaction conditions: ligand: EtPhenCar-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.2212125932,0.4918724347,Reaction conditions: ligand: PCy2Ph precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.2196600716,0.5155653479,Reaction conditions: ligand: PPh3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.2162056675,0.4735029032,Reaction conditions: ligand: CyPPh2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.1877031284,0.3675912662,Reaction conditions: ligand: P(4-OMe-C6H4)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.1837747043,0.3258222779,"Reaction conditions: ligand: P(2,4,6-TriMeO)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70"
+0.1184492086,0.3148336392,Reaction conditions: ligand: PtBuCy2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.1152656672,0.2793356519,Reaction conditions: ligand: SPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.08680310385,0.2070332545,Reaction conditions: ligand: PtBuPh2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.08584946649,0.4265623856,Reaction conditions: ligand: Tyrannophos precursor: [Ni(oTol)(Cl)(PPh3)2] base: K3PO4 solvent: MeTHF cosolvent: none temperature: 70
+0.08564755134,0.2197377775,Reaction conditions: ligand: cataCXium A precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.08409773906,0.1808472808,Reaction conditions: ligand: Cy-vBRIDP precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.07758724613,0.2034540779,Reaction conditions: ligand: MorDalphos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.06703334931,0.1528454283,Reaction conditions: ligand: DavePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.06680581522,0.1390526051,Reaction conditions: ligand: P(4-CF3-C6H4)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.06552067435,0.1686970449,Reaction conditions: ligand: cataCXium ABn precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.06501664212,0.1493792195,Reaction conditions: ligand: GPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.06193722839,0.1452168081,Reaction conditions: ligand: cataCXium PICy precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.05948459753,0.1408978193,Reaction conditions: ligand: EPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.05828726072,0.1299809051,Reaction conditions: ligand: RuPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.05712170847,0.1358217967,Reaction conditions: ligand: BrettPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.05693319094,0.1382085857,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.0568941176,0.1466926961,Reaction conditions: ligand: XPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.05472564446,0.1119208354,Reaction conditions: ligand: AmPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.05422081601,0.1355133601,Reaction conditions: ligand: PhenCar-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.05390442203,0.1304536152,Reaction conditions: ligand: cataCXium POMeCy precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.05343788935,0.1515957034,Reaction conditions: ligand: PAd3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.05254705653,0.1117653204,Reaction conditions: ligand: P(oTol)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.05236564075,0.100585272,Reaction conditions: ligand: PhCPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.05233545637,0.1110447594,Reaction conditions: ligand: CPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.05198531775,0.1053108612,Reaction conditions: ligand: PhDavePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.05164076058,0.1179571662,Reaction conditions: ligand: cataCXium POMetB precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.05058289948,0.1126415911,Reaction conditions: ligand: tBuDavePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.05053058245,0.1051626531,Reaction conditions: ligand: JackiePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.04761969688,0.0,Reaction conditions: ligand: P(2-OMe-C6H4)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.04549164836,0.0,Reaction conditions: ligand: CyBippyPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.0454894375,0.0,Reaction conditions: ligand: NPCy2-Phendolephos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.0445471023,0.0,Reaction conditions: ligand: BippyPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.04434861595,0.0,Reaction conditions: ligand: P(2-Fur)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.04248183609,0.0,Reaction conditions: ligand: Amidolephos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.04180820381,0.0,Reaction conditions: ligand: JohnPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.0412861015,0.0,Reaction conditions: ligand: iPrPhenCar-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.04035058609,0.0,Reaction conditions: ligand: CyJohnPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.03934311818,0.0,Reaction conditions: ligand: CM-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.03890833507,0.0,Reaction conditions: ligand: PhXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.03854983962,0.0,Reaction conditions: ligand: vBRIDP precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.03810230261,0.0,"Reaction conditions: ligand: P(2,4,6-TriMeO)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70"
+0.02735355873,0.0,Reaction conditions: ligand: cataCXium PiPr precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+0.0,0.0,Reaction conditions: ligand: Tyrannophos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: vBRIDP precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: XPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 55
+0.0,0.0,Reaction conditions: ligand: (tBu)PhCPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: iPrOH cosolvent: water temperature: 70
+1.0,1.0,Reaction conditions: ligand: PCy3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+1.0,1.0,Reaction conditions: ligand: Tyrannophos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.9637284591,0.9637284591,Reaction conditions: ligand: PCy3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.9604662521,1.0,Reaction conditions: ligand: PCy3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.9526411792,0.9526411792,Reaction conditions: ligand: PCy2Ph precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.9411475465,0.9693178645,Reaction conditions: ligand: PCy2Ph precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.9233682413,0.9780139815,Reaction conditions: ligand: Tyrannophos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.9214016499,0.9214016499,Reaction conditions: ligand: PAd3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.9158194384,0.9158194384,Reaction conditions: ligand: EtPhenCar-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.8997840958,0.8997840958,Reaction conditions: ligand: CyPPh2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.8815877105,0.96148258,Reaction conditions: ligand: PPh3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.8743756676,0.9361074192,Reaction conditions: ligand: CyPPh2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.8612926874,0.8612926874,Reaction conditions: ligand: P(4-OMe-C6H4)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.8554190546,0.8554190546,Reaction conditions: ligand: PCy3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.8524068949,0.8630573964,Reaction conditions: ligand: CyAmPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.8513812673,0.8513812673,Reaction conditions: ligand: Tyrannophos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.8512904907,0.9491346692,Reaction conditions: ligand: Tyrannophos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.8426405638,0.9782408043,Reaction conditions: ligand: PCy2Ph precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.8381642375,0.8591321218,Reaction conditions: ligand: cataCXium ABn precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.8352241758,0.9290122964,Reaction conditions: ligand: CyPPh2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.8237282081,0.9035673608,Reaction conditions: ligand: PtBuCy2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.8194667227,0.8194667227,Reaction conditions: ligand: PtBuPh2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.806232631,0.8405189484,Reaction conditions: ligand: cataCXium A precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.7886069256,0.9592940194,Reaction conditions: ligand: SPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.7820648016,0.7820648016,Reaction conditions: ligand: MorDalphos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.781182252,0.9642166267,Reaction conditions: ligand: PCy2Ph precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.7792333698,0.7792333698,Reaction conditions: ligand: cataCXium PiPr precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.7734208192,0.7734208192,Reaction conditions: ligand: PtBuCy2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.7730744335,0.9526839329,Reaction conditions: ligand: PtBuCy2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.7710125996,0.9181486453,Reaction conditions: ligand: PtBuPh2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.7630230526,0.7630230526,Reaction conditions: ligand: cataCXium ABn precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.7620093722,0.927861374,Reaction conditions: ligand: cataCXium A precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.7611639167,0.7611639167,Reaction conditions: ligand: PPh3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.757986687,0.9401654563,Reaction conditions: ligand: MorDalphos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.757792791,0.757792791,Reaction conditions: ligand: PhenCar-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.7560730411,0.7650968199,Reaction conditions: ligand: CyPPh2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.754314625,0.9133007159,Reaction conditions: ligand: cataCXium POMeCy precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.754154785,0.7914944858,Reaction conditions: ligand: Cy-vBRIDP precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.7525226189,0.8303543375,Reaction conditions: ligand: P(4-OMe-C6H4)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.7475307337,0.7608859839,Reaction conditions: ligand: XPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.7446917498,0.7531031571,Reaction conditions: ligand: PCy2Ph precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.7432373501,0.7432373501,Reaction conditions: ligand: SPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.7391712965,0.8556006324,Reaction conditions: ligand: CPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.7388853456,0.9566769876,Reaction conditions: ligand: vBRIDP precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.7372831332,0.893563963,Reaction conditions: ligand: CyJohnPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.7349699753,0.9420424819,Reaction conditions: ligand: CyPPh2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.7342998857,0.9756222332,Reaction conditions: ligand: PPh3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.7300796176,0.8812874514,Reaction conditions: ligand: JohnPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.7285111937,0.7285111937,Reaction conditions: ligand: Cy-vBRIDP precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.7220430427,0.9476192328,Reaction conditions: ligand: PAd3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.7180008907,0.7180008907,Reaction conditions: ligand: EtPhenCar-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.7161518718,0.9437379516,Reaction conditions: ligand: cataCXium A precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.7108616607,0.7399581783,Reaction conditions: ligand: cataCXium POMeCy precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.7097564052,0.9540464963,Reaction conditions: ligand: cataCXium ABn precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.7078193363,0.8363252725,Reaction conditions: ligand: (tBu)PhCPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.7072414156,0.7072414156,Reaction conditions: ligand: AmPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.7057162879,0.8450909612,Reaction conditions: ligand: P(oTol)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.6983925645,0.6983925645,Reaction conditions: ligand: CM-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.6930936562,0.8374452435,Reaction conditions: ligand: P(2-OMe-C6H4)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.6903251962,0.7200556565,Reaction conditions: ligand: cataCXium A precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.6817077759,0.6817077759,Reaction conditions: ligand: PhXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.6812446868,0.8601354061,Reaction conditions: ligand: Cy-vBRIDP precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.6773113067,0.6773113067,Reaction conditions: ligand: Amidolephos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.6751799528,0.9482542952,Reaction conditions: ligand: PPh3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.6677377101,0.6677377101,Reaction conditions: ligand: CPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.6676920877,0.9609099267,Reaction conditions: ligand: SPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.6625109639,0.8030502944,Reaction conditions: ligand: PhXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.6603729071,0.676774692,Reaction conditions: ligand: PhDavePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.6583692985,0.6583692985,Reaction conditions: ligand: PhCPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.6552373919,0.6552373919,Reaction conditions: ligand: DavePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.6522580457,0.8300757841,Reaction conditions: ligand: CM-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.6519895939,0.7283341285,Reaction conditions: ligand: CyAmPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.6510028886,0.9622842347,Reaction conditions: ligand: cataCXium A precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.6499739001,0.8035719522,Reaction conditions: ligand: PhCPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.6496170983,0.7734768734,Reaction conditions: ligand: iPrPhenCar-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.6422310521,0.6422310521,Reaction conditions: ligand: (tBu)PhCPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.6403246746,0.9190747709,Reaction conditions: ligand: cataCXium PiPr precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.6355365293,0.7833041868,Reaction conditions: ligand: PhenCar-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.6312954181,0.9361006311,Reaction conditions: ligand: PtBuPh2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.6297640456,0.8058654661,Reaction conditions: ligand: DavePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.6274490475,0.9045524078,Reaction conditions: ligand: CyJohnPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.6254602994,0.9593655164,Reaction conditions: ligand: PAd3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.6246934466,0.9506675115,Reaction conditions: ligand: cataCXium ABn precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.6225935881,0.8365326138,Reaction conditions: ligand: PhDavePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.619455018,0.9525447466,Reaction conditions: ligand: XPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.6190659011,0.9517814343,Reaction conditions: ligand: tBuDavePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.6184594656,0.7649956455,Reaction conditions: ligand: Amidolephos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.5966358446,0.8153561894,Reaction conditions: ligand: Amidolephos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.5954785379,0.839365008,Reaction conditions: ligand: AmPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DIPEA solvent: iPrOH cosolvent: water temperature: 70
+0.5873069014,0.5873069014,Reaction conditions: ligand: iPrPhenCar-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: DBU solvent: iPrOH cosolvent: water temperature: 70
+0.5346184521,0.8036230309,Reaction conditions: ligand: P(oTol)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.5289841149,0.8070010825,Reaction conditions: ligand: AmPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.5279556423,0.9128564023,Reaction conditions: ligand: SPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.5149838123,0.9319037838,Reaction conditions: ligand: cataCXium A precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.5086448524,0.8679519468,Reaction conditions: ligand: Me4tBuXPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.5079783607,0.8092593671,Reaction conditions: ligand: cataCXium POMeCy precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.4857769866,0.7028175059,Reaction conditions: ligand: iPrPhenCar-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 70
+0.4779664759,0.7473425667,Reaction conditions: ligand: DavePhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.4656262201,0.8685013618,Reaction conditions: ligand: PtBuPh2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.4575451758,0.9302924734,Reaction conditions: ligand: PtBuCy2 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.4274918536,0.8732874756,Reaction conditions: ligand: cataCXium ABn precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.3974857421,0.6008421477,Reaction conditions: ligand: CyBippyPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.3914829775,0.5750854881,Reaction conditions: ligand: iPrPhenCar-Phos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.3782698899,0.7051288009,Reaction conditions: ligand: RuPhos precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85
+0.1543343019,0.2567343186,"Reaction conditions: ligand: P(2,4,6-TriMeO)3 precursor: [Ni(oTol)(Cl)(PPh3)2] base: Cs2CO3 solvent: 2-methyl-2-butanol cosolvent: water temperature: 85"

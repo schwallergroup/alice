@@ -1,0 +1,405 @@
+AP yield,AP selectivity,reaction_prompt
+0.0,0.0,Reaction conditions: ligand: NPCy2-Andolephos precursor: [Pd2(dba)3] base: KOAc solvent: MeTHF cosolvent: none
+0.0,0.0,Reaction conditions: ligand: AdBrettPhos precursor: [Pd(allyl)Cl]2 base: DBU solvent: anisole cosolvent: none
+0.0,0.0,Reaction conditions: ligand: PtBuPh2 precursor: [Pd2(dba)3] base: K3PO4 solvent: cyclopentyl-methyl-ether cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: Mor-Dalphos precursor: [Pd(allyl)Cl]2 base: KOtBu solvent: iPrOH cosolvent: H2O
+0.02824606838,0.0,Reaction conditions: ligand: PAd2Cy precursor: [Pd2(dba)3] base: KOH solvent: EtOAc cosolvent: none
+0.3335827496,0.4427969805,Reaction conditions: ligand: BippyPhos precursor: [Pd(allyl)Cl]2 base: K2CO3 solvent: iPrOH cosolvent: H2O
+0.2193270639,0.4895649956,Reaction conditions: ligand: X-PHOS precursor: [Pd2(dba)3] base: Cs2CO3 solvent: di-isopropyl ether cosolvent: none
+0.0,0.0,Reaction conditions: ligand: Amidolephos precursor: [Pd(OAc)2] base: K3PO4 solvent: anisole cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: SPhos precursor: [Pd(OAc)2] base: KOtBu solvent: anisole cosolvent: H2O
+0.02514318358,0.0,Reaction conditions: ligand: P(tBu)3 precursor: [Pd(OAc)2] base: K2CO3 solvent: cyclopentyl-methyl-ether cosolvent: none
+0.0,0.0,Reaction conditions: ligand: PhDavePhos precursor: [Pd(OAc)2] base: KOH solvent: anisole cosolvent: H2O
+0.01893014968,0.0,Reaction conditions: ligand: PtBuPh2 precursor: [Pd2(dba)3] base: K3PO4 solvent: 2-methyl-2-butanol cosolvent: none
+0.4735014004,0.6535353467,Reaction conditions: ligand: RuPhos-Hybrid precursor: [Pd2(dba)3] base: KOAc solvent: anisole cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: BippyPhos precursor: [Pd(OAc)2] base: KOMe solvent: iPrOH cosolvent: none
+0.1790222492,0.3382127075,Reaction conditions: ligand: CY-VBRIDP precursor: [Pd(OAc)2] base: Cs2CO3 solvent: EtOAc cosolvent: none
+0.07021773745,0.07666732227,Reaction conditions: ligand: JohnPhos precursor: [Pd2(dba)3] base: KOH solvent: cyclopentyl-methyl-ether cosolvent: H2O
+0.168116864,0.3349119707,Reaction conditions: ligand: (1-Ad)3P precursor: [Pd(OAc)2] base: DIPEA solvent: di-isopropyl ether cosolvent: none
+0.0,0.0,Reaction conditions: ligand: RockPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: toluene cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: PCy2Ph precursor: [Pd2(dba)3] base: DBU solvent: cyclopentyl-methyl-ether cosolvent: H2O
+0.1501640198,0.2233226308,Reaction conditions: ligand: cataCXium POMetB precursor: [Pd(allyl)Cl]2 base: KOH solvent: acetonitrile cosolvent: none
+0.0834410076,0.1562845167,Reaction conditions: ligand: iPr-PhenCarPhos precursor: [Pd(OAc)2] base: K3PO4 solvent: cyclopentyl-methyl-ether cosolvent: H2O
+0.02010194748,0.0,Reaction conditions: ligand: MePhos precursor: [Pd(allyl)Cl]2 base: KOH solvent: acetonitrile cosolvent: none
+0.06979466758,0.1631118614,Reaction conditions: ligand: cataCXium POMeCy precursor: [Pd2(dba)3] base: Cs2CO3 solvent: cyclopentyl-methyl-ether cosolvent: H2O
+0.0125777993,0.0,Reaction conditions: ligand: PtBuPh2 precursor: [Pd(allyl)Cl]2 base: KOMe solvent: anisole cosolvent: none
+0.3399792194,0.5274404607,Reaction conditions: ligand: CyPPh2 precursor: [Pd(OAc)2] base: KF solvent: EtOAc cosolvent: none
+0.01628015878,0.0,Reaction conditions: ligand: CPhos-Hybrid precursor: [Pd2(dba)3] base: DIPEA solvent: cyclopentyl-methyl-ether cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: cataCXium POMeCy precursor: [Pd(OAc)2] base: DBU solvent: anisole cosolvent: none
+0.02875777192,0.0,Reaction conditions: ligand: TRIPPYPHOS precursor: [Pd(allyl)Cl]2 base: K2CO3 solvent: acetonitrile cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: pta precursor: [Pd(allyl)Cl]2 base: KOAc solvent: anisole cosolvent: none
+0.1066667762,0.2219072596,Reaction conditions: ligand: cataCXium PICy precursor: [Pd(allyl)Cl]2 base: K3PO4 solvent: EtOAc cosolvent: none
+0.01023794831,0.0,Reaction conditions: ligand: iPr-PhenCarPhos precursor: [Pd(OAc)2] base: Cs2CO3 solvent: acetonitrile cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: X-PHOS precursor: [Pd2(dba)3] base: DBU solvent: di-isopropyl ether cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: DavePhos precursor: [Pd(allyl)Cl]2 base: KOtBu solvent: di-isopropyl ether cosolvent: none
+0.4155871458,0.5339606429,Reaction conditions: ligand: QPhos precursor: [Pd2(dba)3] base: KOMe solvent: anisole cosolvent: none
+0.01817764282,0.0,Reaction conditions: ligand: RuPhos precursor: [Pd(OAc)2] base: Cs2CO3 solvent: cyclopentyl-methyl-ether cosolvent: H2O
+0.08939286734,0.191365453,Reaction conditions: ligand: CyPPh2 precursor: [Pd2(dba)3] base: K2CO3 solvent: acetonitrile cosolvent: none
+0.0,0.0,Reaction conditions: ligand: Metamorphos precursor: [Pd(allyl)Cl]2 base: KOAc solvent: EtOAc cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: (1-Ad)3P precursor: [Pd2(dba)3] base: KOH solvent: iPrOH cosolvent: none
+0.03326389855,0.0,Reaction conditions: ligand: PhDavePhos precursor: [Pd(OAc)2] base: KOMe solvent: di-isopropyl ether cosolvent: H2O
+0.1323502479,0.2726808249,Reaction conditions: ligand: Gphos precursor: [Pd2(dba)3] base: KF solvent: anisole cosolvent: none
+0.02269999245,0.0,Reaction conditions: ligand: VPhos precursor: [Pd(allyl)Cl]2 base: DBU solvent: EtOAc cosolvent: none
+0.4208898706,0.601297065,Reaction conditions: ligand: PhCPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: cyclopentyl-methyl-ether cosolvent: H2O
+0.02815873349,0.0,Reaction conditions: ligand: CPhos-Hybrid precursor: [Pd2(dba)3] base: Cs2CO3 solvent: acetonitrile cosolvent: none
+0.0,0.0,Reaction conditions: ligand: cataCXium PtB precursor: [Pd(OAc)2] base: KOH solvent: iPrOH cosolvent: H2O
+0.3592900674,0.5801606025,Reaction conditions: ligand: (pDMA-Ph)P(tBu)2 = AmPhos precursor: [Pd(OAc)2] base: K3PO4 solvent: anisole cosolvent: none
+0.0,0.0,Reaction conditions: ligand: BrettPhos precursor: [Pd(OAc)2] base: DBU solvent: 2-methyl-2-butanol cosolvent: H2O
+0.05857029087,0.1474485127,Reaction conditions: ligand: PPh3 precursor: [Pd(allyl)Cl]2 base: DIPEA solvent: EtOAc cosolvent: none
+0.0,0.0,Reaction conditions: ligand: PAd2Cy precursor: [Pd(OAc)2] base: K2CO3 solvent: cyclopentyl-methyl-ether cosolvent: none
+0.0,0.0,Reaction conditions: ligand: (rac)-QUINAP precursor: [Pd(allyl)Cl]2 base: KOtBu solvent: cyclopentyl-methyl-ether cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: BrettPhos precursor: [Pd(OAc)2] base: KOMe solvent: anisole cosolvent: H2O
+0.275461085,0.3959797227,Reaction conditions: ligand: Amidolephos precursor: [Pd(allyl)Cl]2 base: Cs2CO3 solvent: cyclopentyl-methyl-ether cosolvent: none
+0.0,0.0,Reaction conditions: ligand: PPh3 precursor: [Pd2(dba)3] base: K3PO4 solvent: acetonitrile cosolvent: H2O
+0.08875823445,0.1486947868,Reaction conditions: ligand: (1-Ad)3P precursor: [Pd(allyl)Cl]2 base: KOMe solvent: cyclopentyl-methyl-ether cosolvent: none
+0.07505406298,0.1473405543,Reaction conditions: ligand: (tBu)PhCPhos precursor: [Pd(OAc)2] base: DIPEA solvent: acetonitrile cosolvent: H2O
+0.04451944921,0.0,Reaction conditions: ligand: PPh3 precursor: [Pd(allyl)Cl]2 base: KOAc solvent: di-isopropyl ether cosolvent: none
+0.0,0.0,Reaction conditions: ligand: tBuSPhos precursor: [Pd2(dba)3] base: K2CO3 solvent: anisole cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: PPh3 precursor: [Pd2(dba)3] base: Cs2CO3 solvent: acetonitrile cosolvent: H2O
+0.06052845662,0.09725769049,Reaction conditions: ligand: SPhos precursor: [Pd(allyl)Cl]2 base: KOMe solvent: cyclopentyl-methyl-ether cosolvent: none
+0.0,0.0,Reaction conditions: ligand: EPhos precursor: [Pd(allyl)Cl]2 base: Cs2CO3 solvent: anisole cosolvent: H2O
+0.01528730986,0.0,Reaction conditions: ligand: P(Cy)3 precursor: [Pd(OAc)2] base: DBU solvent: 2-methyl-2-butanol cosolvent: none
+0.0,0.0,Reaction conditions: ligand: PtBuPh2 precursor: [Pd2(dba)3] base: DIPEA solvent: anisole cosolvent: H2O
+0.2053835645,0.3886025504,Reaction conditions: ligand: AdBippyPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: none
+0.0,0.0,Reaction conditions: ligand: cataCXium ABn precursor: [Pd2(dba)3] base: DBU solvent: EtOAc cosolvent: H2O
+0.06158622845,0.123243741,Reaction conditions: ligand: cataCXium PIntB precursor: [Pd(OAc)2] base: K3PO4 solvent: cyclopentyl-methyl-ether cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: PPh3 precursor: [Pd(OAc)2] base: DBU solvent: 2-methyl-2-butanol cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: TrixiePhos precursor: [Pd(allyl)Cl]2 base: KOtBu solvent: MEK cosolvent: none
+0.0,0.0,Reaction conditions: ligand: CM-Phos precursor: [Pd(OAc)2] base: DIPEA solvent: MeOH cosolvent: H2O
+0.1066099881,0.1965020882,Reaction conditions: ligand: tBuXPhos precursor: [Pd2(dba)3] base: KF solvent: EtOAc cosolvent: none
+0.06873161084,0.1256399906,Reaction conditions: ligand: PPh2-Andolephos precursor: [Pd(OAc)2] base: Cs2CO3 solvent: EtOH cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: CY-VBRIDP precursor: [Pd(allyl)Cl]2 base: KOH solvent: cyclopentyl-methyl-ether cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: RuPhos-Hybrid precursor: [Pd(allyl)Cl]2 base: KOtBu solvent: 2-methyl-2-butanol cosolvent: none
+0.03046886267,0.0,Reaction conditions: ligand: BrettPhos precursor: [Pd(OAc)2] base: KOAc solvent: MEK cosolvent: none
+0.0,0.0,Reaction conditions: ligand: RuPhos-Hybrid precursor: [Pd2(dba)3] base: K2CO3 solvent: cyclopentyl-methyl-ether cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: CyRockPhos precursor: [Pd(OAc)2] base: KOMe solvent: iPrOH cosolvent: none
+0.2662314345,0.4302231712,Reaction conditions: ligand: (pDMA-Ph)P(tBu)2 = AmPhos precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: none
+0.07003896914,0.07786520326,Reaction conditions: ligand: CBRIDP precursor: [Pd(allyl)Cl]2 base: KOH solvent: toluene cosolvent: H2O
+0.1804177419,0.2644249175,Reaction conditions: ligand: PhenCar-Phos precursor: [Pd2(dba)3] base: Cs2CO3 solvent: MEK cosolvent: none
+0.0,0.0,Reaction conditions: ligand: tBuSPhos precursor: [Pd(OAc)2] base: KOAc solvent: toluene cosolvent: H2O
+0.4658055526,0.5689766258,Reaction conditions: ligand: VPhos precursor: [Pd2(dba)3] base: K3PO4 solvent: MEK cosolvent: none
+0.06451317106,0.09654774055,Reaction conditions: ligand: TrixiePhos precursor: [Pd(allyl)Cl]2 base: KF solvent: MeOH cosolvent: H2O
+0.06893530882,0.1854651129,Reaction conditions: ligand: (rac)-QUINAP precursor: [Pd(OAc)2] base: K2CO3 solvent: anisole cosolvent: none
+0.0,0.0,Reaction conditions: ligand: RuPhos-Hybrid precursor: [Pd2(dba)3] base: KOtBu solvent: MeTHF cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: RuPhos-Hybrid precursor: [Pd(allyl)Cl]2 base: KOH solvent: EtOH cosolvent: none
+0.06704272158,0.147751863,Reaction conditions: ligand: cataCXium PtB precursor: [Pd(allyl)Cl]2 base: DBU solvent: EtOAc cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: pta precursor: [Pd(OAc)2] base: Cs2CO3 solvent: iPrOH cosolvent: none
+0.04108343299,0.0,Reaction conditions: ligand: cataCXium PiPr precursor: [Pd(allyl)Cl]2 base: DBU solvent: EtOAc cosolvent: H2O
+0.009896938408,0.0,Reaction conditions: ligand: PtBuPh2 precursor: [Pd2(dba)3] base: KOMe solvent: 2-methyl-2-butanol cosolvent: H2O
+0.07504859236,0.1537831195,Reaction conditions: ligand: Me4tBuXPhos precursor: [Pd2(dba)3] base: DIPEA solvent: MEK cosolvent: none
+0.03794369256,0.0,Reaction conditions: ligand: PtBuPh2 precursor: [Pd2(dba)3] base: K3PO4 solvent: EtOAc cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: tBuBrettPhos precursor: [Pd(allyl)Cl]2 base: KOH solvent: EtOH cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: RuPhos precursor: [Pd2(dba)3] base: KOtBu solvent: MEK cosolvent: none
+0.02693276472,0.0,Reaction conditions: ligand: PAd2Cy precursor: [Pd(allyl)Cl]2 base: KOMe solvent: toluene cosolvent: none
+0.3704174938,0.6096186359,Reaction conditions: ligand: PAd2Cy precursor: [Pd2(dba)3] base: KOH solvent: EtOAc cosolvent: H2O
+0.05043574047,0.1557267906,Reaction conditions: ligand: CyPPh2 precursor: [Pd(allyl)Cl]2 base: K3PO4 solvent: toluene cosolvent: none
+0.6493720399,0.7986191278,Reaction conditions: ligand: MePhos precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.06142741001,0.1208395786,Reaction conditions: ligand: BippyPhos precursor: [Pd(allyl)Cl]2 base: KOAc solvent: 2-methyl-2-butanol cosolvent: none
+0.2082584752,0.3470213679,Reaction conditions: ligand: PPh3 precursor: [Pd(allyl)Cl]2 base: KF solvent: MeTHF cosolvent: H2O
+0.1292845061,0.2568475757,Reaction conditions: ligand: PPh3 precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.01461457163,0.0,Reaction conditions: ligand: P(Cy)3 precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.1821391565,0.3634427059,Reaction conditions: ligand: cataCXium POMeCy precursor: [Pd(OAc)2] base: KF solvent: di-isopropyl ether cosolvent: H2O
+0.331562881,0.5350755049,Reaction conditions: ligand: cataCXium POMeCy precursor: [Pd(OAc)2] base: KF solvent: cyclopentyl-methyl-ether cosolvent: H2O
+0.3017899322,0.5746124554,Reaction conditions: ligand: cataCXium PInCy precursor: [Pd2(dba)3] base: KOAc solvent: MeTHF cosolvent: H2O
+0.3742026415,0.5637574158,Reaction conditions: ligand: cataCXium PCy precursor: [Pd2(dba)3] base: KF solvent: iPrOH cosolvent: H2O
+0.0638481109,0.1225849858,Reaction conditions: ligand: cataCXium PCy precursor: [Pd(OAc)2] base: KOAc solvent: MEK cosolvent: H2O
+0.5503096012,0.7441990499,Reaction conditions: ligand: cataCXium PCy precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.6552646992,0.7792846847,Reaction conditions: ligand: CY-VBRIDP precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.5099283831,0.7256325116,Reaction conditions: ligand: CyJohnPhos precursor: [Pd(OAc)2] base: KF solvent: MeTHF cosolvent: H2O
+0.3866061401,0.5343761188,Reaction conditions: ligand: CyJohnPhos precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.6445412756,0.7337708257,Reaction conditions: ligand: CyJohnPhos precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.5302982565,0.61688567,Reaction conditions: ligand: CyJohnPhos precursor: [Pd2(dba)3] base: KF solvent: acetonitrile cosolvent: H2O
+0.3011878688,0.5143285266,Reaction conditions: ligand: cataCXium PICy precursor: [Pd(OAc)2] base: KF solvent: di-isopropyl ether cosolvent: H2O
+0.4840924764,0.6874388978,Reaction conditions: ligand: cataCXium PICy precursor: [Pd(OAc)2] base: KF solvent: MeTHF cosolvent: H2O
+0.3848285372,0.6072379065,Reaction conditions: ligand: cataCXium PICy precursor: [Pd(OAc)2] base: KF solvent: anisole cosolvent: H2O
+0.6916805709,0.8192968106,Reaction conditions: ligand: X-PHOS precursor: [Pd(allyl)Cl]2 base: KF solvent: MeTHF cosolvent: H2O
+0.1983360215,0.3782836576,Reaction conditions: ligand: X-PHOS precursor: [Pd(OAc)2] base: KF solvent: EtOAc cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: Mor-Dalphos precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.04492362049,0.0,Reaction conditions: ligand: JackiePhos precursor: [Pd(OAc)2] base: KF solvent: MeTHF cosolvent: H2O
+0.02869551391,0.0,Reaction conditions: ligand: JackiePhos precursor: [Pd2(dba)3] base: KOAc solvent: MEK cosolvent: H2O
+0.5943948319,0.7472851756,Reaction conditions: ligand: PhDavePhos precursor: [Pd2(dba)3] base: KF solvent: MeTHF cosolvent: H2O
+0.5042623813,0.6865244775,Reaction conditions: ligand: PhDavePhos precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.4701841954,0.6093978505,Reaction conditions: ligand: PhDavePhos precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.394749565,0.60215429,Reaction conditions: ligand: (pDMA-Ph)P(Cy)2 precursor: [Pd2(dba)3] base: KF solvent: MeTHF cosolvent: H2O
+0.05587740741,0.1138237201,Reaction conditions: ligand: (pDMA-Ph)P(Cy)2 precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.1225511738,0.247783779,Reaction conditions: ligand: (pDMA-Ph)P(tBu)2 = AmPhos precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.05532242255,0.118770244,Reaction conditions: ligand: (pDMA-Ph)P(tBu)2 = AmPhos precursor: [Pd2(dba)3] base: KOAc solvent: MEK cosolvent: H2O
+0.4312536216,0.6115748051,Reaction conditions: ligand: (pDMA-Ph)P(tBu)2 = AmPhos precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.1975463515,0.3230713671,Reaction conditions: ligand: CyBippyPhos precursor: [Pd(OAc)2] base: KF solvent: MeTHF cosolvent: H2O
+0.4819006141,0.6294108375,Reaction conditions: ligand: CyBippyPhos precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.9372665137,0.9372665137,Reaction conditions: ligand: CyBippyPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.3736461966,0.5971769299,Reaction conditions: ligand: RuPhos precursor: [Pd(OAc)2] base: KF solvent: MeTHF cosolvent: H2O
+0.6672209754,0.798497662,Reaction conditions: ligand: RuPhos precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.1324495424,0.2732788752,Reaction conditions: ligand: RuPhos precursor: [Pd(OAc)2] base: KF solvent: toluene cosolvent: H2O
+0.05622331069,0.1320922095,Reaction conditions: ligand: CyPPh2 precursor: [Pd(OAc)2] base: KF solvent: MeTHF cosolvent: H2O
+0.07857293059,0.170769755,Reaction conditions: ligand: CyPPh2 precursor: [Pd(OAc)2] base: KF solvent: EtOAc cosolvent: H2O
+0.5736575701,0.6909495281,Reaction conditions: ligand: DavePhos precursor: [Pd(allyl)Cl]2 base: KF solvent: MeTHF cosolvent: H2O
+0.4098022532,0.5265191797,Reaction conditions: ligand: DavePhos precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.4332144352,0.5910462193,Reaction conditions: ligand: DavePhos precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.3319781841,0.5191646912,Reaction conditions: ligand: DavePhos precursor: [Pd(OAc)2] base: KF solvent: anisole cosolvent: H2O
+0.01034671238,0.0,Reaction conditions: ligand: (pDMA-Ph)P(Ph)2 precursor: [Pd2(dba)3] base: KF solvent: EtOH cosolvent: H2O
+0.029996455,0.0,Reaction conditions: ligand: (pDMA-Ph)P(Ph)2 precursor: [Pd(allyl)Cl]2 base: KF solvent: EtOAc cosolvent: H2O
+0.2808614614,0.3954852329,Reaction conditions: ligand: p-DavePhos precursor: [Pd(allyl)Cl]2 base: KF solvent: toluene cosolvent: H2O
+0.08974762614,0.1750821341,Reaction conditions: ligand: PhenCar-Phos precursor: [Pd(OAc)2] base: KF solvent: cyclopentyl-methyl-ether cosolvent: H2O
+0.3184342724,0.4966724794,Reaction conditions: ligand: PhenCar-Phos precursor: [Pd(OAc)2] base: KF solvent: EtOAc cosolvent: H2O
+0.516015407,0.5418583173,Reaction conditions: ligand: RuPhos-Hybrid precursor: [Pd(allyl)Cl]2 base: KF solvent: 2-methyl-2-butanol cosolvent: H2O
+0.226817699,0.3742364218,Reaction conditions: ligand: RuPhos-Hybrid precursor: [Pd2(dba)3] base: DIPEA solvent: MeTHF cosolvent: H2O
+0.2788245417,0.4960695251,Reaction conditions: ligand: RuPhos-Hybrid precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.3952789136,0.590527546,Reaction conditions: ligand: RuPhos-Hybrid precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.3814128962,0.5885417975,Reaction conditions: ligand: PhCPhos precursor: [Pd(OAc)2] base: KF solvent: MeTHF cosolvent: H2O
+0.5127444132,0.6335811647,Reaction conditions: ligand: PhCPhos precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.6146823739,0.7736107206,Reaction conditions: ligand: (1-Ad)3P precursor: [Pd2(dba)3] base: KF solvent: MeTHF cosolvent: H2O
+0.6085854671,0.7897349807,Reaction conditions: ligand: (1-Ad)3P precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.2833700812,0.508258135,Reaction conditions: ligand: CPhos-Hybrid precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.3817653712,0.5815344828,Reaction conditions: ligand: VPhos precursor: [Pd(OAc)2] base: KF solvent: 2-methyl-2-butanol cosolvent: H2O
+0.3162004845,0.5433271315,Reaction conditions: ligand: VPhos precursor: [Pd(OAc)2] base: KF solvent: MeTHF cosolvent: H2O
+0.6089668844,0.7178159188,Reaction conditions: ligand: VPhos precursor: [Pd2(dba)3] base: KF solvent: EtOAc cosolvent: H2O
+0.2167167468,0.3992061063,Reaction conditions: ligand: MePhos precursor: [Pd(OAc)2] base: KF solvent: cyclopentyl-methyl-ether cosolvent: H2O
+0.5578985474,0.7301765388,Reaction conditions: ligand: MePhos precursor: [Pd(allyl)Cl]2 base: KF solvent: MeTHF cosolvent: H2O
+0.3958243715,0.6149322192,Reaction conditions: ligand: MePhos precursor: [Pd(OAc)2] base: KF solvent: EtOAc cosolvent: H2O
+0.77718241,0.8166017595,Reaction conditions: ligand: MePhos precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.3110519275,0.4841698447,Reaction conditions: ligand: MePhos precursor: [Pd(OAc)2] base: KF solvent: toluene cosolvent: H2O
+0.3415192876,0.5477026339,Reaction conditions: ligand: MePhos precursor: [Pd(allyl)Cl]2 base: KF solvent: toluene cosolvent: H2O
+0.006888882593,0.0,Reaction conditions: ligand: Triisobutylphosphatrane precursor: [Pd(allyl)Cl]2 base: K3PO4 solvent: 2-methyl-2-butanol cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: Triisobutylphosphatrane precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.04758738338,0.0,Reaction conditions: ligand: Et-PhenCar-Phos precursor: [Pd(allyl)Cl]2 base: KF solvent: MeTHF cosolvent: H2O
+0.3137999191,0.4811084364,Reaction conditions: ligand: Et-PhenCar-Phos precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.05794164432,0.1261872137,Reaction conditions: ligand: CM-Phos precursor: [Pd(OAc)2] base: KF solvent: MeTHF cosolvent: H2O
+0.02385436989,0.0,Reaction conditions: ligand: CM-Phos precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.04280295541,0.0,Reaction conditions: ligand: CM-Phos precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: CM-Phos precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.4811225557,0.6198734145,Reaction conditions: ligand: Amidolephos precursor: [Pd2(dba)3] base: KF solvent: MeTHF cosolvent: H2O
+0.02383635381,0.0,Reaction conditions: ligand: NPCy2-Andolephos precursor: [Pd(OAc)2] base: DBU solvent: 2-methyl-2-butanol cosolvent: H2O
+0.09679250997,0.1897867152,Reaction conditions: ligand: NPCy2-Andolephos precursor: [Pd(OAc)2] base: KF solvent: MeTHF cosolvent: H2O
+0.3120538031,0.4852278081,Reaction conditions: ligand: NPCy2-Andolephos precursor: [Pd2(dba)3] base: KF solvent: MeTHF cosolvent: H2O
+0.2251296485,0.3891402764,Reaction conditions: ligand: NPCy2-Andolephos precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: pta precursor: [Pd2(dba)3] base: KF solvent: MeOH cosolvent: H2O
+0.00753504848,0.0,Reaction conditions: ligand: pta precursor: [Pd(OAc)2] base: KF solvent: EtOH cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: pta precursor: [Pd(allyl)Cl]2 base: KF solvent: di-isopropyl ether cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: pta precursor: [Pd(OAc)2] base: KF solvent: MeTHF cosolvent: H2O
+0.01206956952,0.0,Reaction conditions: ligand: pta precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: none
+0.007652709135,0.0,Reaction conditions: ligand: pta precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: pta precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: pta precursor: [Pd(OAc)2] base: KF solvent: EtOAc cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: pta precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: pta precursor: [Pd2(dba)3] base: KF solvent: acetonitrile cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: Ph-PhenCar-Phos precursor: [Pd(OAc)2] base: KF solvent: MeTHF cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: (rac)-QUINAP precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: (rac)-QUINAP precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.466430818,0.5749252229,Reaction conditions: ligand: iPr-PhenCarPhos precursor: [Pd2(dba)3] base: KOAc solvent: MeTHF cosolvent: H2O
+0.1945599687,0.3495602232,Reaction conditions: ligand: iPr-PhenCarPhos precursor: [Pd(OAc)2] base: KF solvent: anisole cosolvent: H2O
+0.01021486334,0.0,"Reaction conditions: ligand: P(3,5-CF3-Ph)3 precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O"
+0.443917295,0.6369865903,Reaction conditions: ligand: QPhos precursor: [Pd(allyl)Cl]2 base: K3PO4 solvent: MEK cosolvent: none
+0.01867221016,0.0,Reaction conditions: ligand: QPhos precursor: [Pd2(dba)3] base: KOAc solvent: EtOAc cosolvent: H2O
+0.1407746459,0.173058884,Reaction conditions: ligand: PPh3 precursor: [Pd(allyl)Cl]2 base: KF solvent: anisole cosolvent: none
+0.05474769749,0.09848956587,Reaction conditions: ligand: P(Cy)3 precursor: [Pd2(dba)3] base: KF solvent: 2-methyl-2-butanol cosolvent: H2O
+0.09391316634,0.2074336625,Reaction conditions: ligand: P(Cy)3 precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.1069973255,0.1793917483,Reaction conditions: ligand: P(tBu)3 precursor: [Pd2(dba)3] base: KF solvent: di-isopropyl ether cosolvent: H2O
+0.9502230202,0.9502230202,Reaction conditions: ligand: P(tBu)3 precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.085453981,0.1812059454,Reaction conditions: ligand: P(tBu)3 precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.7349724579,0.7988309631,Reaction conditions: ligand: P(tBu)3 precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.3292519524,0.5314989198,Reaction conditions: ligand: cataCXium ABn precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: cataCXium A precursor: [Pd(allyl)Cl]2 base: KF solvent: MeOH cosolvent: H2O
+0.03850402247,0.0,Reaction conditions: ligand: cataCXium A precursor: [Pd(OAc)2] base: KF solvent: EtOH cosolvent: none
+0.02951488538,0.0,Reaction conditions: ligand: cataCXium A precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.5144366185,0.6882233143,Reaction conditions: ligand: cataCXium A precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.4712464147,0.6715068335,Reaction conditions: ligand: cataCXium POMeCy precursor: [Pd(OAc)2] base: KF solvent: 2-methyl-2-butanol cosolvent: none
+0.4073020146,0.6062266294,Reaction conditions: ligand: cataCXium PIntB precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.5001700973,0.6587116311,Reaction conditions: ligand: cataCXium PtB precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.219068708,0.3366704645,Reaction conditions: ligand: cataCXium PCy precursor: [Pd2(dba)3] base: KF solvent: MeOH cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: cataCXium PCy precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.02932528367,0.0,Reaction conditions: ligand: CyJohnPhos precursor: [Pd2(dba)3] base: KF solvent: MeOH cosolvent: H2O
+0.3751939023,0.5099680576,Reaction conditions: ligand: cataCXium PICy precursor: [Pd(allyl)Cl]2 base: KF solvent: MeOH cosolvent: none
+0.5843098784,0.6395152208,Reaction conditions: ligand: cataCXium PICy precursor: [Pd2(dba)3] base: KF solvent: MeTHF cosolvent: H2O
+0.0903962861,0.1815168599,Reaction conditions: ligand: cataCXium PICy precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.5952580773,0.7527995006,Reaction conditions: ligand: cataCXium PICy precursor: [Pd(allyl)Cl]2 base: KF solvent: EtOAc cosolvent: H2O
+0.5149325984,0.7308317671,Reaction conditions: ligand: cataCXium PICy precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.08975756966,0.2656466422,Reaction conditions: ligand: X-PHOS precursor: [Pd(OAc)2] base: KF solvent: EtOH cosolvent: H2O
+0.396165848,0.5814469552,Reaction conditions: ligand: X-PHOS precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: none
+0.3501504564,0.5748039353,Reaction conditions: ligand: X-PHOS precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.7277311495,0.7277311495,Reaction conditions: ligand: X-PHOS precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.5301242652,0.605804419,Reaction conditions: ligand: PhDavePhos precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: none
+0.1622241121,0.3082884672,Reaction conditions: ligand: (pDMA-Ph)P(Cy)2 precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.069617189,0.1200598749,Reaction conditions: ligand: (pDMA-Ph)P(Cy)2 precursor: [Pd2(dba)3] base: KF solvent: acetonitrile cosolvent: H2O
+0.004596494306,0.0,Reaction conditions: ligand: (pDMA-Ph)P(Cy)2 precursor: [Pd2(dba)3] base: KOAc solvent: anisole cosolvent: H2O
+0.1392395168,0.2501189854,Reaction conditions: ligand: AdBippyPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: 2-methyl-2-butanol cosolvent: H2O
+0.0559774226,0.08772879691,Reaction conditions: ligand: AdBippyPhos precursor: [Pd2(dba)3] base: DIPEA solvent: MEK cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: AdBippyPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: toluene cosolvent: H2O
+0.0193053692,0.0,Reaction conditions: ligand: AdBippyPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: anisole cosolvent: H2O
+0.07638415051,0.1271703492,Reaction conditions: ligand: BippyPhos precursor: [Pd2(dba)3] base: KF solvent: MeTHF cosolvent: H2O
+0.1947947538,0.3238595333,Reaction conditions: ligand: BippyPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.1911411094,0.3638110387,Reaction conditions: ligand: CyBippyPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: di-isopropyl ether cosolvent: H2O
+0.2763851578,0.4274297373,Reaction conditions: ligand: CyBippyPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.3745823946,0.4650897325,Reaction conditions: ligand: CyBippyPhos precursor: [Pd2(dba)3] base: KF solvent: acetonitrile cosolvent: none
+0.842174626,0.842174626,Reaction conditions: ligand: CyBippyPhos precursor: [Pd2(dba)3] base: KF solvent: acetonitrile cosolvent: H2O
+0.1068126656,0.1359394988,Reaction conditions: ligand: CyBippyPhos precursor: [Pd2(dba)3] base: KF solvent: anisole cosolvent: H2O
+0.02466263686,0.0,Reaction conditions: ligand: CyPPh2 precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: DavePhos precursor: [Pd(allyl)Cl]2 base: KF solvent: MeOH cosolvent: H2O
+0.0582985717,0.1220281923,Reaction conditions: ligand: DavePhos precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.6076645927,0.7345386386,Reaction conditions: ligand: DavePhos precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.1871394559,0.2140485365,Reaction conditions: ligand: AlPhos precursor: [Pd2(dba)3] base: KF solvent: MeTHF cosolvent: H2O
+0.01161821201,0.0,Reaction conditions: ligand: AlPhos precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: none
+0.0,0.0,Reaction conditions: ligand: AlPhos precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.1459439835,0.1689337016,Reaction conditions: ligand: AlPhos precursor: [Pd2(dba)3] base: KF solvent: acetonitrile cosolvent: H2O
+0.4751387988,0.7118764427,Reaction conditions: ligand: CPhos precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.2784980174,0.4803541775,Reaction conditions: ligand: (tBu)PhCPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.0460935717,0.0,Reaction conditions: ligand: (1-Ad)3P precursor: [Pd(allyl)Cl]2 base: KF solvent: EtOH cosolvent: H2O
+0.4025178929,0.6523099827,Reaction conditions: ligand: (1-Ad)3P precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.4935024279,0.6305619366,Reaction conditions: ligand: (1-Ad)3P precursor: [Pd2(dba)3] base: KF solvent: acetonitrile cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: (1-Ad)3P precursor: [Pd2(dba)3] base: KF solvent: toluene cosolvent: H2O
+0.1041046637,0.1902194734,Reaction conditions: ligand: CPhos-Hybrid precursor: [Pd(OAc)2] base: KF solvent: EtOAc cosolvent: H2O
+0.6554356105,0.7790292371,Reaction conditions: ligand: VPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.5398757138,0.5398757138,Reaction conditions: ligand: VPhos precursor: [Pd2(dba)3] base: KF solvent: toluene cosolvent: none
+0.1446454141,0.1881406057,Reaction conditions: ligand: VPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: anisole cosolvent: H2O
+0.1147573358,0.1719463619,Reaction conditions: ligand: MePhos precursor: [Pd2(dba)3] base: KF solvent: MeOH cosolvent: H2O
+0.1132191261,0.2018356511,Reaction conditions: ligand: MePhos precursor: [Pd(OAc)2] base: KF solvent: MeTHF cosolvent: none
+0.631607522,0.7833459614,Reaction conditions: ligand: MePhos precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.4186188746,0.5424084272,Reaction conditions: ligand: MePhos precursor: [Pd2(dba)3] base: KF solvent: acetonitrile cosolvent: H2O
+0.1132956217,0.1514371801,Reaction conditions: ligand: MePhos precursor: [Pd(OAc)2] base: KF solvent: anisole cosolvent: H2O
+0.4137631425,0.5764430882,Reaction conditions: ligand: cataCXium PiPr precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.5092846827,0.6748385509,Reaction conditions: ligand: cataCXium PiPr precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.008921887494,0.0,Reaction conditions: ligand: Triisobutylphosphatrane precursor: [Pd(allyl)Cl]2 base: KF solvent: MeOH cosolvent: H2O
+0.09285931237,0.1801758055,Reaction conditions: ligand: Et-PhenCar-Phos precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.02382860358,0.0,Reaction conditions: ligand: Tyrannophos precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.02601268196,0.0,Reaction conditions: ligand: Tyrannophos precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.008706950452,0.0,Reaction conditions: ligand: CM-Phos precursor: [Pd(allyl)Cl]2 base: KF solvent: MeTHF cosolvent: none
+0.01807843689,0.0,Reaction conditions: ligand: CM-Phos precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: none
+0.0925354357,0.1758263084,Reaction conditions: ligand: CM-Phos precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.05390869167,0.09825059955,Reaction conditions: ligand: CM-Phos precursor: [Pd2(dba)3] base: KF solvent: acetonitrile cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: NPCy2-Phendolephos precursor: [Pd(OAc)2] base: KF solvent: MeOH cosolvent: H2O
+0.01782553116,0.0,Reaction conditions: ligand: NPCy2-Phendolephos precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: none
+0.02381868873,0.0,Reaction conditions: ligand: NPCy2-Phendolephos precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: Amidolephos precursor: [Pd(allyl)Cl]2 base: KF solvent: MeOH cosolvent: H2O
+0.02789855883,0.0,Reaction conditions: ligand: Amidolephos precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.05412225917,0.08682127268,Reaction conditions: ligand: NPCy2-Andolephos precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: pta precursor: [Pd2(dba)3] base: KF solvent: EtOH cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: pta precursor: [Pd(allyl)Cl]2 base: KF solvent: MeTHF cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: pta precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: pta precursor: [Pd(allyl)Cl]2 base: KF solvent: EtOAc cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: pta precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: PtBuPh2 precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.0636948004,0.1093689401,Reaction conditions: ligand: (rac)-QUINAP precursor: [Pd(allyl)Cl]2 base: KF solvent: MeTHF cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: (rac)-QUINAP precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.02720544788,0.0,Reaction conditions: ligand: PAd2Cy precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.4190506485,0.510715688,Reaction conditions: ligand: iPr-PhenCarPhos precursor: [Pd2(dba)3] base: KOAc solvent: MEK cosolvent: H2O
+0.3780949525,0.4765012368,Reaction conditions: ligand: iPr-PhenCarPhos precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.3906998919,0.5910301327,Reaction conditions: ligand: PhXPhos precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.05459783762,0.11415394,"Reaction conditions: ligand: P(3,5-CF3-Ph)3 precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: none"
+0.0,0.0,Reaction conditions: ligand: VincePhos precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.2108836319,0.3617136233,Reaction conditions: ligand: QPhos precursor: [Pd(allyl)Cl]2 base: K3PO4 solvent: acetonitrile cosolvent: none
+0.1167999424,0.2322722224,Reaction conditions: ligand: PPh3 precursor: [Pd(OAc)2] base: KF solvent: MeTHF cosolvent: H2O
+0.2159772181,0.3794920876,Reaction conditions: ligand: cataCXium POMeCy precursor: [Pd2(dba)3] base: KF solvent: di-isopropyl ether cosolvent: H2O
+0.4261460181,0.6150226316,Reaction conditions: ligand: cataCXium POMeCy precursor: [Pd(OAc)2] base: KF solvent: MeTHF cosolvent: H2O
+0.5274660205,0.6779265425,Reaction conditions: ligand: cataCXium PInCy precursor: [Pd2(dba)3] base: KF solvent: MeTHF cosolvent: H2O
+0.3641357627,0.5599561947,Reaction conditions: ligand: CyJohnPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: toluene cosolvent: H2O
+0.8238040914,0.870978635,Reaction conditions: ligand: cataCXium PICy precursor: [Pd(allyl)Cl]2 base: KF solvent: MeTHF cosolvent: H2O
+0.3110807268,0.5402934467,Reaction conditions: ligand: cataCXium PICy precursor: [Pd(OAc)2] base: KF solvent: toluene cosolvent: H2O
+0.02390240773,0.0,Reaction conditions: ligand: JackiePhos precursor: [Pd(OAc)2] base: KF solvent: cyclopentyl-methyl-ether cosolvent: H2O
+0.5205588973,0.6145711942,Reaction conditions: ligand: PhDavePhos precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.07580856196,0.1405006734,Reaction conditions: ligand: (pDMA-Ph)P(Cy)2 precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.4837874289,0.6510782279,Reaction conditions: ligand: RuPhos precursor: [Pd2(dba)3] base: KF solvent: MeTHF cosolvent: H2O
+0.0846224232,0.174623968,Reaction conditions: ligand: CyPPh2 precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: H2O
+0.4709077281,0.6726331635,Reaction conditions: ligand: DavePhos precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.04064710699,0.0,Reaction conditions: ligand: (pDMA-Ph)P(Ph)2 precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.1071057354,0.2005535637,Reaction conditions: ligand: PhenCar-Phos precursor: [Pd(OAc)2] base: KF solvent: di-isopropyl ether cosolvent: H2O
+0.3346130659,0.5274249982,Reaction conditions: ligand: PhenCar-Phos precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.1093132069,0.2499824404,Reaction conditions: ligand: RuPhos-Hybrid precursor: [Pd(allyl)Cl]2 base: KF solvent: di-isopropyl ether cosolvent: H2O
+0.401728083,0.5896680315,Reaction conditions: ligand: RuPhos-Hybrid precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.4546040886,0.5854201962,Reaction conditions: ligand: PhCPhos precursor: [Pd2(dba)3] base: KF solvent: MeTHF cosolvent: H2O
+0.0184460222,0.0,Reaction conditions: ligand: (1-Ad)3P precursor: [Pd2(dba)3] base: KOAc solvent: MeTHF cosolvent: H2O
+0.5251427139,0.7015128222,Reaction conditions: ligand: (1-Ad)3P precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.7689477854,0.7689477854,Reaction conditions: ligand: VPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.1211540727,0.258023294,Reaction conditions: ligand: VPhos precursor: [Pd(OAc)2] base: KF solvent: toluene cosolvent: H2O
+0.2053735346,0.3911684454,Reaction conditions: ligand: MePhos precursor: [Pd(OAc)2] base: KF solvent: di-isopropyl ether cosolvent: H2O
+0.4152392548,0.5545606453,Reaction conditions: ligand: MePhos precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.5510650665,0.7236064903,Reaction conditions: ligand: cataCXium PiPr precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.2329471624,0.4298991637,Reaction conditions: ligand: CM-Phos precursor: [Pd(OAc)2] base: KF solvent: di-isopropyl ether cosolvent: H2O
+0.02054940234,0.0,Reaction conditions: ligand: CM-Phos precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: NPCy2-Andolephos precursor: [Pd(OAc)2] base: KF solvent: MeOH cosolvent: H2O
+0.4415096597,0.6287226921,Reaction conditions: ligand: NPCy2-Andolephos precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: pta precursor: [Pd(OAc)2] base: KF solvent: MeOH cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: pta precursor: [Pd(OAc)2] base: KF solvent: di-isopropyl ether cosolvent: H2O
+0.02905881211,0.0,Reaction conditions: ligand: pta precursor: [Pd2(dba)3] base: KF solvent: MeTHF cosolvent: H2O
+0.08066969517,0.1749583535,Reaction conditions: ligand: iPr-PhenCarPhos precursor: [Pd(OAc)2] base: KF solvent: toluene cosolvent: H2O
+0.4592093253,0.6722731584,Reaction conditions: ligand: QPhos precursor: [Pd2(dba)3] base: KOAc solvent: MEK cosolvent: H2O
+0.1726043787,0.3384025771,Reaction conditions: ligand: P(tBu)3 precursor: [Pd(allyl)Cl]2 base: KF solvent: MeTHF cosolvent: H2O
+0.1615773843,0.2643360869,Reaction conditions: ligand: P(tBu)3 precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.09107462445,0.1888383768,Reaction conditions: ligand: cataCXium ABn precursor: [Pd(allyl)Cl]2 base: KF solvent: MeTHF cosolvent: H2O
+0.05070009749,0.1034893401,Reaction conditions: ligand: cataCXium ABn precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.01954527265,0.0,Reaction conditions: ligand: cataCXium ABn precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.1625181089,0.2939883983,Reaction conditions: ligand: cataCXium ABn precursor: [Pd(allyl)Cl]2 base: KF solvent: EtOAc cosolvent: H2O
+0.005964066595,0.0,Reaction conditions: ligand: cataCXium ABn precursor: [Pd2(dba)3] base: KF solvent: acetonitrile cosolvent: H2O
+0.5529962379,0.7507047386,Reaction conditions: ligand: cataCXium A precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.7072962355,0.7831029102,Reaction conditions: ligand: cataCXium POMeCy precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: none
+0.080549524,0.1697742601,Reaction conditions: ligand: cataCXium POMeCy precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.6798862943,0.7187181231,Reaction conditions: ligand: cataCXium POMeCy precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.2291810102,0.3606719679,Reaction conditions: ligand: cataCXium POMeCy precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: none
+0.0,0.0,Reaction conditions: ligand: cataCXium POMeCy precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.5761675989,0.6404699947,Reaction conditions: ligand: cataCXium POMeCy precursor: [Pd2(dba)3] base: KF solvent: acetonitrile cosolvent: H2O
+0.3900574764,0.5763617818,Reaction conditions: ligand: cataCXium PInCy precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.6156435755,0.7251646201,Reaction conditions: ligand: cataCXium PInCy precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.6745176908,0.7159855514,Reaction conditions: ligand: cataCXium PCy precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.417370131,0.6710372053,Reaction conditions: ligand: cataCXium PCy precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: none
+0.1921703319,0.3063608509,Reaction conditions: ligand: cataCXium PCy precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: none
+0.4440679894,0.6196247899,Reaction conditions: ligand: CY-VBRIDP precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: tBuDavePhos precursor: [Pd(allyl)Cl]2 base: KOAc solvent: di-isopropyl ether cosolvent: H2O
+0.02317708816,0.0,Reaction conditions: ligand: cataCXium PICy precursor: [Pd2(dba)3] base: KF solvent: MeTHF cosolvent: none
+0.4943690823,0.6767364378,Reaction conditions: ligand: cataCXium PICy precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: none
+0.647446134,0.6574178217,Reaction conditions: ligand: cataCXium PICy precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.2498419905,0.4483300538,Reaction conditions: ligand: cataCXium PICy precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: none
+0.0,0.0,Reaction conditions: ligand: cataCXium PICy precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: none
+0.5208544661,0.6178477253,Reaction conditions: ligand: cataCXium PICy precursor: [Pd2(dba)3] base: KF solvent: acetonitrile cosolvent: H2O
+0.7203520531,0.7993582826,Reaction conditions: ligand: X-PHOS precursor: [Pd(allyl)Cl]2 base: KF solvent: iPrOH cosolvent: none
+0.0,0.0,Reaction conditions: ligand: X-PHOS precursor: [Pd(allyl)Cl]2 base: KF solvent: MeTHF cosolvent: none
+0.662114314,0.7799381534,Reaction conditions: ligand: X-PHOS precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: none
+0.8110265411,0.8460657717,Reaction conditions: ligand: X-PHOS precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.6201469252,0.7866283359,Reaction conditions: ligand: X-PHOS precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: PhDavePhos precursor: [Pd(allyl)Cl]2 base: KOAc solvent: MeTHF cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: PhDavePhos precursor: [Pd(allyl)Cl]2 base: KOAc solvent: MEK cosolvent: H2O
+0.3540241931,0.4040154062,Reaction conditions: ligand: PhDavePhos precursor: [Pd2(dba)3] base: KOAc solvent: acetonitrile cosolvent: H2O
+0.0544430484,0.09820886466,Reaction conditions: ligand: BippyPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: MeTHF cosolvent: H2O
+0.2254460686,0.3223584553,Reaction conditions: ligand: BippyPhos precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.01565185607,0.0,Reaction conditions: ligand: BippyPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.4880207268,0.6564714428,Reaction conditions: ligand: CyBippyPhos precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: none
+0.6422475893,0.6707238993,Reaction conditions: ligand: CyBippyPhos precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: none
+0.6253909313,0.632877978,Reaction conditions: ligand: CyBippyPhos precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.222697949,0.3323991269,Reaction conditions: ligand: CyBippyPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: none
+0.4294608995,0.6167461487,Reaction conditions: ligand: RuPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.2154365603,0.3632420627,Reaction conditions: ligand: DavePhos precursor: [Pd(allyl)Cl]2 base: KF solvent: MeOH cosolvent: none
+0.01114706652,0.0,Reaction conditions: ligand: DavePhos precursor: [Pd(OAc)2] base: KF solvent: EtOH cosolvent: H2O
+0.4753340209,0.5970489143,Reaction conditions: ligand: DavePhos precursor: [Pd(OAc)2] base: KF solvent: iPrOH cosolvent: none
+0.1264489971,0.2131845117,Reaction conditions: ligand: DavePhos precursor: [Pd(OAc)2] base: KF solvent: MeTHF cosolvent: none
+0.521321943,0.6653519252,Reaction conditions: ligand: DavePhos precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: none
+0.7482929037,0.7950336219,Reaction conditions: ligand: DavePhos precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: none
+0.05943948234,0.1096983833,Reaction conditions: ligand: CPhos precursor: [Pd(OAc)2] base: KF solvent: MeTHF cosolvent: none
+0.695557431,0.8144779791,Reaction conditions: ligand: CPhos precursor: [Pd(OAc)2] base: KF solvent: acetonitrile cosolvent: none
+0.6608919615,0.7586717095,Reaction conditions: ligand: VPhos precursor: [Pd(allyl)Cl]2 base: KF solvent: MeTHF cosolvent: H2O
+0.5889489961,0.6346207111,Reaction conditions: ligand: VPhos precursor: [Pd2(dba)3] base: KF solvent: acetonitrile cosolvent: H2O
+0.01872784277,0.0,Reaction conditions: ligand: DMPP precursor: [Pd2(dba)3] base: KOAc solvent: MeOH cosolvent: H2O
+0.02405434389,0.0,Reaction conditions: ligand: DMPP precursor: [Pd2(dba)3] base: KOAc solvent: EtOH cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: DMPP precursor: [Pd(OAc)2] base: KOAc solvent: iPrOH cosolvent: H2O
+0.006329953887,0.0,Reaction conditions: ligand: DMPP precursor: [Pd2(dba)3] base: KOAc solvent: di-isopropyl ether cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: DMPP precursor: [Pd(OAc)2] base: KOAc solvent: MeTHF cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: DMPP precursor: [Pd(allyl)Cl]2 base: KOAc solvent: MeTHF cosolvent: H2O
+0.01636106751,0.0,Reaction conditions: ligand: DMPP precursor: [Pd2(dba)3] base: KOAc solvent: MeTHF cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: DMPP precursor: [Pd(OAc)2] base: KOAc solvent: MEK cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: DMPP precursor: [Pd(allyl)Cl]2 base: KOAc solvent: MEK cosolvent: H2O
+0.0274667839,0.0,Reaction conditions: ligand: DMPP precursor: [Pd2(dba)3] base: KOAc solvent: MEK cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: DMPP precursor: [Pd(OAc)2] base: KOAc solvent: acetonitrile cosolvent: H2O
+0.02703173847,0.0,Reaction conditions: ligand: DMPP precursor: [Pd2(dba)3] base: KOAc solvent: acetonitrile cosolvent: H2O
+0.01258114153,0.0,Reaction conditions: ligand: DMPP precursor: [Pd2(dba)3] base: KOAc solvent: toluene cosolvent: H2O
+0.01315742239,0.0,Reaction conditions: ligand: DMPP precursor: [Pd2(dba)3] base: KOAc solvent: anisole cosolvent: H2O
+0.6424191435,0.7613756726,Reaction conditions: ligand: cataCXium PiPr precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.488377301,0.5646327832,Reaction conditions: ligand: cataCXium PiPr precursor: [Pd2(dba)3] base: KF solvent: acetonitrile cosolvent: H2O
+0.01140734219,0.0,Reaction conditions: ligand: NPCy2-Phendolephos precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.07654576965,0.1509110454,Reaction conditions: ligand: Amidolephos precursor: [Pd(OAc)2] base: KF solvent: MEK cosolvent: H2O
+0.6521380997,0.7882745972,Reaction conditions: ligand: Amidolephos precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.0,0.0,Reaction conditions: ligand: Amidolephos precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.5242102864,0.6072004846,Reaction conditions: ligand: Amidolephos precursor: [Pd2(dba)3] base: KF solvent: acetonitrile cosolvent: H2O
+0.6050397724,0.8085823647,Reaction conditions: ligand: PAd2Cy precursor: [Pd(allyl)Cl]2 base: KF solvent: MeTHF cosolvent: H2O
+0.6700860639,0.7952122251,Reaction conditions: ligand: PAd2Cy precursor: [Pd(allyl)Cl]2 base: KF solvent: MEK cosolvent: H2O
+0.6799381306,0.6927538672,Reaction conditions: ligand: PAd2Cy precursor: [Pd2(dba)3] base: KF solvent: MEK cosolvent: H2O
+0.1482069804,0.3049387862,Reaction conditions: ligand: PAd2Cy precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O
+0.3751363168,0.5122689431,Reaction conditions: ligand: PAd2Cy precursor: [Pd2(dba)3] base: KF solvent: acetonitrile cosolvent: H2O
+0.1089171986,0.2220447374,Reaction conditions: ligand: CBRIDP precursor: [Pd(allyl)Cl]2 base: KF solvent: MeTHF cosolvent: H2O
+0.4322385734,0.642818533,Reaction conditions: ligand: CBRIDP precursor: [Pd(allyl)Cl]2 base: KF solvent: acetonitrile cosolvent: H2O

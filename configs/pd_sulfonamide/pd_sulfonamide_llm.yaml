@@ -1,0 +1,72 @@
+# wandb project settings
+wandb_project: "alice_pd_sulfonamide"
+wandb_run_name: "pd_sulfonamide_llm"
+group: "pd_sulfonamide_llm"
+
+# output directory of optimisation results
+out_root: "results/pd_sulfonamide_llm"
+output_model_dir: "results/pd_sulfonamide_llm/final_trained_model"
+
+data:
+  class_path: alice.data.module.BaseDataModule
+  init_args:
+    data_path: data/benchmark_datasets/pd_sulfonamide/pd_sulfonamide_prompt.csv
+    input_column: reaction_prompt
+    target_column:
+      - AP yield
+      - AP selectivity
+    maximize: [true, true]
+    normalize_input: original
+    dtype: torch.float64
+
+    featurizer:
+      class_path: alice.data.module.Featurizer
+      init_args:
+        representation: get_tokens
+        model_name: t5-base
+    initializer:
+      class_path: alice.initialization.initializers.BOInitializer
+      init_args:
+        method: sobol
+        n_clusters: 96
+        pca_dim: 16
+
+surrogate_model:
+  class_path: alice.surrogate_models.gp_mo_multilayer.MultiDeepGP
+  init_args:
+    finetuning_model:
+      class_path: alice.featurization.deep_multilayer.LLMFeaturizer
+      init_args:
+        input_dim: 768
+        projection_dim: 32
+        use_task_attention: False
+        independent_projection_heads: True
+        projection_kwargs:
+          hidden_dims: []       
+          use_spectral_norm: True   
+          activation: "gelu"
+          dropout: 0.1
+        from_top: true
+        target_ratio: 0.25
+        model_name: t5-base
+        pooling_method: average
+        normalize_embeddings: false
+        lora_dropout: 0.2
+        trainable: true
+    ft_lr: 0.002
+    gp_lr: 0.1 
+    kernel_class: gpytorch.kernels.MaternKernel
+
+acquisition:
+  class_path: botorch.acquisition.multi_objective.parego.qLogNParEGO
+  init_args: {}
+    
+bo:
+  class_path: alice.bo.optimizer.BotorchOptimizer
+  init_args:
+    batch_size: 96
+
+n_iters: 4
+seed: 1
+
+

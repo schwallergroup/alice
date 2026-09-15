@@ -1,0 +1,56 @@
+# wandb project settings
+wandb_project: "alice_pd_sulfonamide"
+wandb_run_name: "pd_sulfonamide_desc"
+group: "pd_sulfonamide_desc"
+
+# output directory of optimisation results
+out_root: "results/pd_sulfonamide_desc"
+
+data:
+  class_path: alice.data.module.BaseDataModule
+  init_args:
+    data_path: data/benchmark_datasets/pd_sulfonamide/pd_sulfonamide_desc.csv
+    input_column: ['ligand_PC1', 'ligand_PC2', 'ligand_PC3', 'ligand_PC4', 'ligand_PC5',
+       'ligand_PC6', 'ligand_PC7', 'ligand_PC8', 'ligand_PC9', 'ligand_PC10',
+       'ligand_PC11', 'ligand_PC12', 'ligand_PC13', 'ligand_PC14',
+       'ligand_PC15', 'ligand_PC16', 'ligand_PC17', 'ligand_PC18',
+       'ligand_PC19', 'ligand_PC20', 'ligand_PC21', 'ligand_PC22',
+       'ligand_PC23', 'ligand_PC24', 'ligand_PC25', 'F1', 'F2', 'F3', 'F4',
+       '[Pd(OAc)2]', '[Pd(allyl)Cl]2', '[Pd2(dba)3]', 'K3PO4', 'KOAc', 'NaOAc',
+       'DBU', 'K2CO3', 'NaTFA-DBU', 'diisopropylethylamine', 'Na2CO3']
+    target_column:
+      - AP yield
+      - AP selectivity
+    maximize: [true, true]
+    normalize_input: original
+    dtype: torch.float64
+
+    featurizer:
+      class_path: alice.featurization.numeric.NumericFeaturizer
+      init_args:
+        representation: descriptors
+    initializer:
+      class_path: alice.initialization.initializers.BOInitializer
+      init_args:
+        method: sobol
+        n_clusters: 96
+
+surrogate_model:
+  class_path: alice.surrogate_models.gp_mo.MultiGP
+  init_args:
+    standardize: true
+    normalize: true
+
+acquisition:
+  class_path: botorch.acquisition.multi_objective.parego.qLogNParEGO
+  init_args: {}
+    
+bo:
+  class_path: alice.bo.optimizer.BotorchOptimizer
+  init_args:
+    batch_size: 96
+
+n_iters: 4
+seed: 1
+
+

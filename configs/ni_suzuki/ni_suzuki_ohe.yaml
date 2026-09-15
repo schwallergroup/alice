@@ -1,0 +1,69 @@
+# wandb project settings
+wandb_project: "alice_ni_suzuki"
+wandb_run_name: "ni_suzuki_ohe"
+group: "ni_suzuki_ohe"
+
+# output directory of optimisation results
+out_root: "results/ni_suzuki_ohe"
+
+data:
+  class_path: alice.data.module.BaseDataModule
+  init_args:
+    data_path: data/benchmark_datasets/ni_suzuki/ni_suzuki_ohe.csv
+    input_column: ['temperature_40', 'temperature_55', 'temperature_70', 'temperature_85',
+       'temperature_100', 'ligand_(tBu)PhCPhos', 'ligand_AmPhos',
+       'ligand_Amidolephos', 'ligand_BippyPhos', 'ligand_BrettPhos',
+       'ligand_CM-Phos', 'ligand_CPhos', 'ligand_Cy-vBRIDP', 'ligand_CyAmPhos',
+       'ligand_CyBippyPhos', 'ligand_CyJohnPhos', 'ligand_CyPPh2',
+       'ligand_DavePhos', 'ligand_EPhos', 'ligand_EtPhenCar-Phos',
+       'ligand_GPhos', 'ligand_JackiePhos', 'ligand_JohnPhos',
+       'ligand_Me4tBuXPhos', 'ligand_MorDalphos', 'ligand_NPCy2-Phendolephos',
+       'ligand_P(2,4,6-TriMeO)3', 'ligand_P(2-Fur)3', 'ligand_P(2-OMe-C6H4)3',
+       'ligand_P(4-CF3-C6H4)3', 'ligand_P(4-OMe-C6H4)3', 'ligand_P(oTol)3',
+       'ligand_PAd3', 'ligand_PCy2Ph', 'ligand_PCy3', 'ligand_PPh3',
+       'ligand_PhCPhos', 'ligand_PhDavePhos', 'ligand_PhXPhos',
+       'ligand_PhenCar-Phos', 'ligand_PtBuCy2', 'ligand_PtBuPh2',
+       'ligand_RuPhos', 'ligand_SPhos', 'ligand_Tyrannophos', 'ligand_XPhos',
+       'ligand_cataCXium A', 'ligand_cataCXium ABn', 'ligand_cataCXium PICy',
+       'ligand_cataCXium POMeCy', 'ligand_cataCXium POMetB',
+       'ligand_cataCXium PiPr', 'ligand_iPrPhenCar-Phos', 'ligand_tBuDavePhos',
+       'ligand_vBRIDP', 'solvent_2-methyl-2-butanol', 'solvent_DEC',
+       'solvent_DMI', 'solvent_EtOAc', 'solvent_MEK', 'solvent_MeOH',
+       'solvent_MeTHF', 'solvent_acetonitrile', 'solvent_iPrOH',
+       'solvent_toluene', 'precursor_NiCl2.6H2O', 'precursor_[Ni(COD)(DQ)]',
+       'precursor_[Ni(oTol)(Cl)(PPh3)2]', 'precursor_[Ni(oTol)(Cl)(TMEDA)]',
+       'base_Cs2CO3', 'base_DBU', 'base_DIPEA', 'base_K3PO4', 'cosolvent_MeOH',
+       'cosolvent_none', 'cosolvent_water']
+    target_column:
+      - AP yield
+      - AP selectivity
+    maximize: [true, true]
+    normalize_input: original
+    dtype: torch.float64
+
+    featurizer:
+      class_path: alice.featurization.numeric.NumericFeaturizer
+      init_args:
+        representation: descriptors
+    initializer:
+      class_path: alice.initialization.initializers.BOInitializer
+      init_args:
+        method: sobol
+        n_clusters: 5
+
+surrogate_model:
+  class_path: alice.surrogate_models.gp_mo.MultiGP
+  init_args:
+    standardize: true
+    normalize: true
+acquisition:
+  class_path: botorch.acquisition.multi_objective.parego.qLogNParEGO
+  init_args: {}
+bo:
+  class_path: alice.bo.optimizer.BotorchOptimizer
+  init_args:
+    batch_size: 1
+
+n_iters: 40
+seed: 1
+

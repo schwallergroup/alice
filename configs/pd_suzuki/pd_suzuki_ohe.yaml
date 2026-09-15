@@ -1,0 +1,148 @@
+# wandb project settings
+wandb_project: "alice_pd_suzuki"
+wandb_run_name: "pd_suzuki_ohe"
+group: "pd_suzuki_ohe"
+
+# output directory of optimisation results
+out_root: "results/pd_suzuki_ohe"
+
+data:
+  class_path: alice.data.module.BaseDataModule
+  init_args:
+    data_path: data/benchmark_datasets/pd_suzuki/pd_suzuki_ohe.csv
+    input_column: ['ligand_(1-Ad)3P',
+ 'ligand_(pDMA-Ph)P(Cy)2',
+ 'ligand_(pDMA-Ph)P(Ph)2',
+ 'ligand_(pDMA-Ph)P(tBu)2 = AmPhos',
+ 'ligand_(rac)-QUINAP',
+ 'ligand_(tBu)PhCPhos',
+ 'ligand_AdBippyPhos',
+ 'ligand_AdBrettPhos',
+ 'ligand_AlPhos',
+ 'ligand_Amidolephos',
+ 'ligand_BippyPhos',
+ 'ligand_BrettPhos',
+ 'ligand_CBRIDP',
+ 'ligand_CM-Phos',
+ 'ligand_CPhos',
+ 'ligand_CPhos-Hybrid',
+ 'ligand_CY-VBRIDP',
+ 'ligand_CyBippyPhos',
+ 'ligand_CyJohnPhos',
+ 'ligand_CyPPh2',
+ 'ligand_CyRockPhos',
+ 'ligand_DMPP',
+ 'ligand_DavePhos',
+ 'ligand_EPhos',
+ 'ligand_Et-PhenCar-Phos',
+ 'ligand_Gphos',
+ 'ligand_JackiePhos',
+ 'ligand_JohnPhos',
+ 'ligand_Me4tBuXPhos',
+ 'ligand_MePhos',
+ 'ligand_Metamorphos',
+ 'ligand_Mor-Dalphos',
+ 'ligand_NPCy2-Andolephos',
+ 'ligand_NPCy2-Phendolephos',
+ 'ligand_P(3,5-CF3-Ph)3',
+ 'ligand_P(Cy)3',
+ 'ligand_P(tBu)3',
+ 'ligand_PAd2Cy',
+ 'ligand_PCy2Ph',
+ 'ligand_PPh2-Andolephos',
+ 'ligand_PPh3',
+ 'ligand_Ph-PhenCar-Phos',
+ 'ligand_PhCPhos',
+ 'ligand_PhDavePhos',
+ 'ligand_PhXPhos',
+ 'ligand_PhenCar-Phos',
+ 'ligand_PtBuPh2',
+ 'ligand_QPhos',
+ 'ligand_RockPhos',
+ 'ligand_RuPhos',
+ 'ligand_RuPhos-Hybrid',
+ 'ligand_SPhos',
+ 'ligand_TRIPPYPHOS',
+ 'ligand_Triisobutylphosphatrane',
+ 'ligand_TrixiePhos',
+ 'ligand_Tyrannophos',
+ 'ligand_VPhos',
+ 'ligand_VincePhos',
+ 'ligand_X-PHOS',
+ 'ligand_cataCXium A',
+ 'ligand_cataCXium ABn',
+ 'ligand_cataCXium PCy',
+ 'ligand_cataCXium PICy',
+ 'ligand_cataCXium PInCy',
+ 'ligand_cataCXium PIntB',
+ 'ligand_cataCXium POMeCy',
+ 'ligand_cataCXium POMetB',
+ 'ligand_cataCXium PiPr',
+ 'ligand_cataCXium PtB',
+ 'ligand_iPr-PhenCarPhos',
+ 'ligand_p-DavePhos',
+ 'ligand_pta',
+ 'ligand_tBuBrettPhos',
+ 'ligand_tBuDavePhos',
+ 'ligand_tBuSPhos',
+ 'ligand_tBuXPhos',
+ 'solvent_2-methyl-2-butanol',
+ 'solvent_EtOAc',
+ 'solvent_EtOH',
+ 'solvent_MEK',
+ 'solvent_MeOH',
+ 'solvent_MeTHF',
+ 'solvent_acetonitrile',
+ 'solvent_anisole',
+ 'solvent_cyclopentyl-methyl-ether',
+ 'solvent_di-isopropyl ether',
+ 'solvent_iPrOH',
+ 'solvent_toluene',
+ 'precursor_[Pd(OAc)2]',
+ 'precursor_[Pd(allyl)Cl]2',
+ 'precursor_[Pd2(dba)3]',
+ 'base_Cs2CO3',
+ 'base_DBU',
+ 'base_DIPEA',
+ 'base_K2CO3',
+ 'base_K3PO4',
+ 'base_KF',
+ 'base_KOAc',
+ 'base_KOH',
+ 'base_KOMe',
+ 'base_KOtBu',
+ 'cosolvent_H2O',
+ 'cosolvent_none']
+    target_column:
+      - AP yield
+      - AP selectivity
+    maximize: [true, true]
+    normalize_input: original
+    dtype: torch.float64
+
+    featurizer:
+      class_path: alice.featurization.numeric.NumericFeaturizer
+      init_args:
+        representation: descriptors
+    initializer:
+      class_path: alice.initialization.initializers.BOInitializer
+      init_args:
+        method: sobol
+        n_clusters: 5
+
+surrogate_model:
+  class_path: alice.surrogate_models.gp_mo.MultiGP
+  init_args:
+    standardize: true
+    normalize: true
+acquisition:
+  class_path: botorch.acquisition.multi_objective.parego.qLogNParEGO
+  init_args: {}
+bo:
+  class_path: alice.bo.optimizer.BotorchOptimizer
+  init_args:
+    batch_size: 1
+
+n_iters: 95
+seed: 1
+

@@ -1,0 +1,51 @@
+# wandb project settings
+wandb_project: "alice_ni_suzuki"
+wandb_run_name: "ni_suzuki_desc"
+group: "ni_suzuki_desc"
+
+# output directory of optimisation results
+out_root: "results/ni_suzuki_desc"
+
+data:
+  class_path: alice.data.module.BaseDataModule
+  init_args:
+    data_path: data/benchmark_datasets/ni_suzuki/ni_suzuki_desc.csv
+    input_column: ['ligand_PC1', 'ligand_PC2', 'ligand_PC3', 'ligand_PC4', 'ligand_PC5',
+       'ligand_PC6', 'ligand_PC7', 'ligand_PC8', 'ligand_PC9', 'ligand_PC10',
+       'ligand_PC11', 'ligand_PC12', 'ligand_PC13', 'ligand_PC14', 'F1', 'F2',
+       'F3', 'F4', 'NiCl2.6H2O', '[Ni(COD)(DQ)]', '[Ni(oTol)(Cl)(PPh3)2]',
+       '[Ni(oTol)(Cl)(TMEDA)]', 'Cs2CO3', 'DBU', 'DIPEA', 'K3PO4', 'MeOH',
+       'none', 'water', 'temperature_descriptor']
+    target_column:
+      - AP yield
+      - AP selectivity
+    maximize: [true, true]
+    normalize_input: original
+    dtype: torch.float64
+
+    featurizer:
+      class_path: alice.featurization.numeric.NumericFeaturizer
+      init_args:
+        representation: descriptors
+    initializer:
+      class_path: alice.initialization.initializers.BOInitializer
+      init_args:
+        method: sobol
+        n_clusters: 5
+
+surrogate_model:
+  class_path: alice.surrogate_models.gp_mo.MultiGP
+  init_args:
+    standardize: true
+    normalize: true
+acquisition:
+  class_path: botorch.acquisition.multi_objective.parego.qLogNParEGO
+  init_args: {}
+bo:
+  class_path: alice.bo.optimizer.BotorchOptimizer
+  init_args:
+    batch_size: 1
+
+n_iters: 40
+seed: 1
+
